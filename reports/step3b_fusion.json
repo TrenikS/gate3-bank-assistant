@@ -1,0 +1,91 @@
+{
+  "n_sessions": 2000,
+  "alphas": {
+    "0.0": {
+      "acc": 0.865,
+      "acc_signal": 0.8672,
+      "acc_no_signal": 0.8612,
+      "thresholds": {
+        "answer": 0.69,
+        "clarify": 0.39,
+        "val_coverage_answer": 0.7655,
+        "val_acc_answer": 0.951,
+        "val_share_clarify": 0.1945,
+        "val_share_handoff": 0.04,
+        "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1"
+      }
+    },
+    "0.25": {
+      "acc": 0.906,
+      "acc_signal": 0.9436,
+      "acc_no_signal": 0.8423,
+      "thresholds": {
+        "answer": 0.55,
+        "clarify": 0.35,
+        "val_coverage_answer": 0.909,
+        "val_acc_answer": 0.9516,
+        "val_share_clarify": 0.069,
+        "val_share_handoff": 0.022,
+        "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1"
+      }
+    },
+    "0.5": {
+      "acc": 0.906,
+      "acc_signal": 0.9666,
+      "acc_no_signal": 0.8032,
+      "thresholds": {
+        "answer": 0.54,
+        "clarify": 0.34,
+        "val_coverage_answer": 0.9255,
+        "val_acc_answer": 0.9503,
+        "val_share_clarify": 0.055,
+        "val_share_handoff": 0.0195,
+        "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1"
+      }
+    },
+    "0.75": {
+      "acc": 0.9,
+      "acc_signal": 0.9754,
+      "acc_no_signal": 0.7722,
+      "thresholds": {
+        "answer": 0.57,
+        "clarify": 0.47,
+        "val_coverage_answer": 0.9045,
+        "val_acc_answer": 0.9519,
+        "val_share_clarify": 0.039,
+        "val_share_handoff": 0.0565,
+        "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1"
+      }
+    },
+    "1.0": {
+      "acc": 0.884,
+      "acc_signal": 0.9841,
+      "acc_no_signal": 0.7143,
+      "thresholds": {
+        "answer": 0.62,
+        "clarify": 0.62,
+        "val_coverage_answer": 0.8825,
+        "val_acc_answer": 0.9507,
+        "val_share_clarify": 0.0,
+        "val_share_handoff": 0.1175,
+        "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1"
+      }
+    },
+    "1.5": {
+      "acc": 0.8525,
+      "acc_signal": 0.9905,
+      "acc_no_signal": 0.6186,
+      "thresholds": {
+        "answer": 0.74,
+        "clarify": 0.74,
+        "val_coverage_answer": 0.8345,
+        "val_acc_answer": 0.9521,
+        "val_share_clarify": 0.0,
+        "val_share_handoff": 0.1655,
+        "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1"
+      }
+    }
+  },
+  "chosen_alpha": 0.25,
+  "rule": "max coverage@acc95 при падении точности на сессиях без сигнала ≤ 2 п.п. (порог выбран после сетки)"
+}

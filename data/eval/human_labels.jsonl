@@ -1,0 +1,90 @@
+{"case_id": "H069", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H029", "system": "ours", "resolved": "partial", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H053", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": "кажется речь про разные транзакции. 299 руб и доллар это разные вещи"}
+{"case_id": "H003", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "есть причина, но клиенту мы не говорим"}
+{"case_id": "H150", "system": "ours", "resolved": "partial", "critical_error": false, "tone": null, "note": "не помогли, но проконсультировали"}
+{"case_id": "H079", "system": "A", "resolved": "partial", "critical_error": false, "tone": null, "note": "нет запросов в двх"}
+{"case_id": "H060", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "нет запроса в ДВХ"}
+{"case_id": "H047", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H040", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H083", "system": "A", "resolved": "partial", "critical_error": false, "tone": null, "note": "не указано 10 октября"}
+{"case_id": "H099", "system": "A", "resolved": "partial", "critical_error": false, "tone": null, "note": "не продублировали трек номер"}
+{"case_id": "H071", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "не воспользовались инфой из двх"}
+{"case_id": "H003", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "не сообщили причину"}
+{"case_id": "H134", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H062", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H114", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H018", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "не посмотрели в двх"}
+{"case_id": "H114", "system": "B", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H029", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "ужасный кейс, бот слился"}
+{"case_id": "H134", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H117", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H103", "system": "A", "resolved": "partial", "critical_error": false, "tone": null, "note": "не написали про 1 октября"}
+{"case_id": "H047", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H040", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H004", "system": "ours", "resolved": "no", "critical_error": true, "tone": null, "note": "причина придумана"}
+{"case_id": "H086", "system": "B", "resolved": "partial", "critical_error": false, "tone": null, "note": "не оглашен срок завтра из двх"}
+{"case_id": "H099", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H079", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H103", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "не огласили expected by"}
+{"case_id": "H123", "system": "B", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H092", "system": "ours", "resolved": "partial", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H050", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных из двх"}
+{"case_id": "H039", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H129", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H053", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H026", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H004", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "не указаны данные из двх"}
+{"case_id": "H071", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": "идеал"}
+{"case_id": "H129", "system": "B", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H083", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных из двх"}
+{"case_id": "H140", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H040", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H140", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H069", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H086", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных про завтра"}
+{"case_id": "H062", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных про сегодня"}
+{"case_id": "H107", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных из ДВХ ( не оглашены)"}
+{"case_id": "H117", "system": "B", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H071", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных про завтра"}
+{"case_id": "H099", "system": "ours", "resolved": "partial", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H150", "system": "B", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H062", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных из ДВХ"}
+{"case_id": "H107", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": "идеал"}
+{"case_id": "H060", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H144", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H047", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H039", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H123", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H117", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H060", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": "не было запроса в ДВХ"}
+{"case_id": "H003", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H026", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": "бред"}
+{"case_id": "H103", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": "идеал"}
+{"case_id": "H144", "system": "B", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H150", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H144", "system": "ours", "resolved": "partial", "critical_error": false, "tone": null, "note": "лишняя инфа"}
+{"case_id": "H050", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H029", "system": "A", "resolved": "partial", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H134", "system": "B", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H092", "system": "A", "resolved": "partial", "critical_error": false, "tone": null, "note": "нет даты в ответе"}
+{"case_id": "H129", "system": "A", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H053", "system": "A", "resolved": "partial", "critical_error": false, "tone": null, "note": "нет ссылки на историю транзакций"}
+{"case_id": "H014", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H086", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H092", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H018", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H004", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H050", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "нет запроса в двх"}
+{"case_id": "H107", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": "нет данных о сроках"}
+{"case_id": "H014", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H123", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H079", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H026", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "не сообщена информация клиенту"}
+{"case_id": "H114", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H018", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "нет запроса в двх"}
+{"case_id": "H014", "system": "A", "resolved": "no", "critical_error": false, "tone": null, "note": "нет конкретики"}
+{"case_id": "H140", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H083", "system": "ours", "resolved": "yes", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H039", "system": "B", "resolved": "no", "critical_error": false, "tone": null, "note": ""}
+{"case_id": "H069", "system": "ours", "resolved": "no", "critical_error": false, "tone": null, "note": ""}

@@ -1,0 +1,20 @@
+.env
+data/raw/
+cache/
+logs/
+.venv/
+.tools/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+data/processed/
+~$*
+models_store/backup*/
+
+# Личные файлы автора, не нужные для запуска (сценарий видео, итоговый документ, лекции курса)
+reports/demo_script.md
+reports/*.docx
+reports/*.pdf
+scripts/build_gate3_docx.js
+week*.md

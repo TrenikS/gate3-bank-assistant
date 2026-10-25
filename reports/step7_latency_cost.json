@@ -1,0 +1,96 @@
+{
+  "suggestions": {
+    "n": 300,
+    "p50": 0.0028,
+    "p95": 0.0046,
+    "max": 0.0065,
+    "target_s": 0.3
+  },
+  "stages": {
+    "pii": {
+      "n": 98,
+      "p50": 0.003,
+      "p95": 0.0043
+    },
+    "rules": {
+      "n": 98,
+      "p50": 0.0001,
+      "p95": 0.0002
+    },
+    "classifier": {
+      "n": 98,
+      "p50": 0.0384,
+      "p95": 0.0681
+    },
+    "emotion": {
+      "n": 98,
+      "p50": 0.0001,
+      "p95": 0.0001
+    },
+    "dwh": {
+      "n": 67,
+      "p50": 0.0002,
+      "p95": 0.0006
+    },
+    "llm": {
+      "n": 4,
+      "p50": 2.1997,
+      "p95": 2.442
+    },
+    "guardrails": {
+      "n": 67,
+      "p50": 0.005,
+      "p95": 0.0079
+    },
+    "llm_summary": {
+      "n": 34,
+      "p50": 5.6903,
+      "p95": 8.899
+    },
+    "total": {
+      "n": 98,
+      "p50": 0.0709,
+      "p95": 7.73
+    },
+    "client_response": {
+      "n": 98,
+      "p50": 0.0458,
+      "p95": 0.1081
+    }
+  },
+  "cost_by_route": {
+    "smart": {
+      "n": 35,
+      "share": 0.3571,
+      "tokens_mean": 851.1
+    },
+    "simple/local": {
+      "n": 4,
+      "share": 0.0408,
+      "tokens_mean": 354.2
+    },
+    "шаблон без LLM": {
+      "n": 59,
+      "share": 0.602,
+      "tokens_mean": 0.0
+    }
+  },
+  "economics": {
+    "cost_per_dialog_rub": 0.2355,
+    "share_without_human_in_scope": 0.8267,
+    "gcr_in_scope": {
+      "k": 46,
+      "n": 75,
+      "p": 0.6133,
+      "ci95": [
+        0.5002,
+        0.7154
+      ]
+    },
+    "contacts_per_year": 30000000,
+    "operator_cost_rub": 100,
+    "chats_per_month_prod": 1500000,
+    "llm_cost_per_month_rub": 353250,
+    "tokens_per_month": 477600000
+  }
+}

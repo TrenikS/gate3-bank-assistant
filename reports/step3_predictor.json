@@ -1,0 +1,68 @@
+{
+  "n_sessions": 2000,
+  "n_features": 40,
+  "cv": "5-fold stratified",
+  "model": {
+    "hit@1": 0.6045,
+    "hit@3": 0.6805,
+    "mrr": 0.6589
+  },
+  "baseline_top_frequent": {
+    "hit@1": 0.13,
+    "hit@3": 0.2625,
+    "mrr": 0.26,
+    "top3": [
+      "declined_card_payment",
+      "pending_transfer",
+      "Refund_not_showing_up"
+    ]
+  },
+  "model_signal_only": {
+    "hit@1": 0.934,
+    "hit@3": 0.9944,
+    "mrr": 0.9647
+  },
+  "model_no_signal": {
+    "hit@1": 0.0808,
+    "hit@3": 0.2613,
+    "mrr": 0.2472
+  },
+  "share_noise": 0.371,
+  "share_other": 0.1605,
+  "feature_importance_top15": {
+    "limit_usage": 18746.4,
+    "declined_card_15m": 4965.6,
+    "cryptic_tx_3d": 4900.3,
+    "screen_Реквизиты": 4047.6,
+    "transfer_processing": 3987.3,
+    "card_in_delivery": 3509.5,
+    "duplicate_2d": 3065.2,
+    "card_not_activated": 3055.5,
+    "transfer_overdue": 3050.1,
+    "refund_pending": 3047.8,
+    "declined_transfer_30m": 3018.2,
+    "fee_tx_2d": 2981.5,
+    "screen_Настройки карты": 2763.9,
+    "service_charge_7d": 2497.8,
+    "screen_Заблокировать карту": 2429.7
+  },
+  "top_driver_by_class": {
+    "Refund_not_showing_up": "refund_pending",
+    "activate_my_card": "card_not_activated",
+    "card_arrival": "card_in_delivery",
+    "card_payment_fee_charged": "fee_tx_2d",
+    "card_payment_not_recognised": "screen_Детали операции",
+    "change_pin": "screen_Настройки карты",
+    "compromised_card": "fraud_declines_2h",
+    "declined_card_payment": "declined_card_15m",
+    "declined_transfer": "declined_transfer_30m",
+    "edit_personal_details": "screen_Профиль",
+    "extra_charge_on_statement": "service_charge_7d",
+    "lost_or_stolen_card": "screen_Заблокировать карту",
+    "pending_card_payment": "pending_card_tx_old",
+    "pending_transfer": "transfer_processing",
+    "receiving_money": "screen_Реквизиты",
+    "transaction_charged_twice": "duplicate_2d",
+    "transfer_not_received_by_recipient": "transfer_overdue"
+  }
+}

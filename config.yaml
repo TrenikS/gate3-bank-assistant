@@ -1,0 +1,77 @@
+# Конфиг прототипа Gate 3. Ключи — только в .env.
+
+llm:
+  provider: polza              # polza | gigachat (GigaChat отключён: дорого через Polza, нет баланса напрямую)
+  polza:
+    base_url: https://polza.ai/api/v1
+    # Доп. параметры запроса по моделям. У gemini-3.8-flash reasoning нельзя выключить ("mandatory"),
+    # но бюджет 1 токен даёт 0 reasoning-токенов: иначе ~190 скрытых токенов, обрезанный ответ и ×6 к цене.
+    extra_body:
+      google/gemini-3.8-flash: {reasoning: {max_tokens: 1}}
+      # У Sonnet reasoning тоже обязательный: без effort=low он съедал весь max_tokens и возвращал пустой текст
+      # (71 из 392 ответов судьи, обрезанные выжимки). effort=low → 0 reasoning-токенов, быстрее и дешевле.
+      anthropic/claude-sonnet-5.5: {reasoning: {effort: low}}
+  # Названия моделей сверены со списком моделей API (python -m src.data.check_gigachat).
+  roles:
+    polza:
+      smart: anthropic/claude-sonnet-5.5   # LLM-судья, выжимка оператору
+      simple: google/gemini-3.8-flash      # перевод, бейзлайн A
+      # перефраз шаблона (маскированные данные клиента). Не gemini-3.8-flash: у него обязательный reasoning
+      # съедает ~380 токенов, ответ обрезается и в 4 из 5 случаев не проходит гардрейлы (замер 04.10.2026).
+      local: google/gemini-3.5-flash-lite
+    gigachat:
+      smart: GigaChat-2-Max
+      simple: GigaChat-2
+      local: GigaChat-2
+  # Локальная роль (всё, где есть ПДн). Пока её тоже играет GigaChat; ollama — опция P2.
+  local_backend: gigachat      # gigachat | ollama
+  ollama:
+    base_url: http://localhost:11434
+    model: qwen2.5:7b-instruct
+  verify_ssl_certs: false      # для прототипа; см. README про сертификат Минцифры
+  ca_bundle_file: null         # путь к russian_trusted_root_ca.cer, если установлен
+  timeout_s: 30
+  max_retries: 2
+  cache_enabled: true          # для замера латентности выключается флагом --no-cache
+
+# Цены, ₽ за 1000 токенов, отдельно вход и выход. Источник — прайс Polza AI
+# (/api/v1/models → top_provider.pricing, ₽ за 1 млн / 1000) на 04.10.2026.
+# Для Polza фактическая стоимость вызова берётся из usage.cost_rub; конфиг — для оценок и прогнозов.
+# null → рубли выводятся как «н/д».
+price_rub_per_1k_tokens:
+  anthropic/claude-sonnet-5.5: {input: 0.233, output: 1.166}
+  google/gemini-3.8-flash: {input: 0.044, output: 0.219}
+  google/gemini-3.5-flash-lite: {input: 0.017, output: 0.146}
+  GigaChat-2-Max: null
+  GigaChat-2: null
+
+classifier:
+  embedding_model: intfloat/multilingual-e5-base
+  # Пороги выбираются по кривой coverage–accuracy (шаг 1), сюда записываются вручную/скриптом.
+  thresholds:
+    answer: 0.60     # уверенность >= answer → шаблон
+    clarify: 0.30    # clarify <= уверенность < answer → уточняющий вопрос; ниже → человек
+
+emotion:
+  irritation_threshold: 0.5
+
+paths:
+  raw: data/raw
+  processed: data/processed
+  synthetic: data/synthetic
+  eval: data/eval
+  dwh: data/synthetic/dwh.sqlite
+  templates: data/templates.yaml
+  models: models_store
+  cache: cache
+  llm_log: logs/llm_calls.jsonl
+  reports: reports
+  figures: reports/figures
+
+economics:
+  clients: 10000000
+  contacts_per_year: 30000000
+  operator_cost_rub: 100
+  chats_per_month_prod: 1500000
+
+seed: 42

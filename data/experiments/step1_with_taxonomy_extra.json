@@ -1,0 +1,411 @@
+{
+  "split": {
+    "train": 9002,
+    "val": 1001,
+    "test": 3080
+  },
+  "en": {
+    "majority": {
+      "n": 3080,
+      "accuracy": 0.013,
+      "macro_f1": 0.0003,
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.013,
+        "macro_f1": 0.0014
+      }
+    },
+    "keywords": {
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.7698,
+        "macro_f1": 0.5896
+      },
+      "note": "предсказывает только 15+2 скоуп-интента или other"
+    },
+    "tfidf_lr": {
+      "n": 3080,
+      "accuracy": 0.8857,
+      "macro_f1": 0.8862,
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.9597,
+        "macro_f1": 0.8937
+      }
+    },
+    "e5_lr": {
+      "n": 3080,
+      "accuracy": 0.9273,
+      "macro_f1": 0.927,
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.9718,
+        "macro_f1": 0.9259
+      }
+    }
+  },
+  "ru": {
+    "e5_lr_en_only": {
+      "n": 770,
+      "accuracy": 0.7571,
+      "macro_f1": 0.7474,
+      "scope": {
+        "n": 770,
+        "accuracy": 0.8831,
+        "macro_f1": 0.7015
+      }
+    },
+    "e5_lr_en_ru": {
+      "n": 770,
+      "accuracy": 0.861,
+      "macro_f1": 0.8579,
+      "scope": {
+        "n": 770,
+        "accuracy": 0.926,
+        "macro_f1": 0.7964
+      }
+    },
+    "coverage_curve": [
+      {
+        "threshold": 0.0,
+        "coverage": 1.0,
+        "accuracy": 0.861
+      },
+      {
+        "threshold": 0.05,
+        "coverage": 1.0,
+        "accuracy": 0.861
+      },
+      {
+        "threshold": 0.1,
+        "coverage": 1.0,
+        "accuracy": 0.861
+      },
+      {
+        "threshold": 0.15,
+        "coverage": 0.9987,
+        "accuracy": 0.8622
+      },
+      {
+        "threshold": 0.2,
+        "coverage": 0.9974,
+        "accuracy": 0.862
+      },
+      {
+        "threshold": 0.25,
+        "coverage": 0.9935,
+        "accuracy": 0.8654
+      },
+      {
+        "threshold": 0.3,
+        "coverage": 0.9883,
+        "accuracy": 0.8673
+      },
+      {
+        "threshold": 0.35,
+        "coverage": 0.9818,
+        "accuracy": 0.8717
+      },
+      {
+        "threshold": 0.4,
+        "coverage": 0.9662,
+        "accuracy": 0.8817
+      },
+      {
+        "threshold": 0.45,
+        "coverage": 0.9519,
+        "accuracy": 0.8909
+      },
+      {
+        "threshold": 0.5,
+        "coverage": 0.9338,
+        "accuracy": 0.8971
+      },
+      {
+        "threshold": 0.55,
+        "coverage": 0.9091,
+        "accuracy": 0.9114
+      },
+      {
+        "threshold": 0.6,
+        "coverage": 0.8922,
+        "accuracy": 0.917
+      },
+      {
+        "threshold": 0.65,
+        "coverage": 0.8805,
+        "accuracy": 0.9189
+      },
+      {
+        "threshold": 0.7,
+        "coverage": 0.8494,
+        "accuracy": 0.9327
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.826,
+        "accuracy": 0.9371
+      },
+      {
+        "threshold": 0.8,
+        "coverage": 0.7974,
+        "accuracy": 0.9479
+      },
+      {
+        "threshold": 0.85,
+        "coverage": 0.7519,
+        "accuracy": 0.9551
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.6961,
+        "accuracy": 0.972
+      },
+      {
+        "threshold": 0.95,
+        "coverage": 0.6039,
+        "accuracy": 0.9828
+      }
+    ],
+    "ece": 0.0299,
+    "ece_oof": 0.0177,
+    "majority": {
+      "n": 770,
+      "accuracy": 0.013,
+      "macro_f1": 0.0014
+    },
+    "keywords": {
+      "scope": {
+        "n": 770,
+        "accuracy": 0.7247,
+        "macro_f1": 0.5265
+      }
+    },
+    "tfidf_lr_en_only": {
+      "n": 770,
+      "accuracy": 0.0351,
+      "macro_f1": 0.0295
+    },
+    "tfidf_lr_en_ru": {
+      "n": 770,
+      "accuracy": 0.787,
+      "macro_f1": 0.7861,
+      "scope": {
+        "n": 770,
+        "accuracy": 0.913,
+        "macro_f1": 0.7701
+      }
+    }
+  },
+  "calibration": {
+    "temperature": 0.503,
+    "ece_test_before": 0.2012,
+    "ece_val": 0.0174,
+    "ece_test": 0.0089
+  },
+  "coverage_curve_test_en": [
+    {
+      "threshold": 0.0,
+      "coverage": 1.0,
+      "accuracy": 0.9273
+    },
+    {
+      "threshold": 0.05,
+      "coverage": 1.0,
+      "accuracy": 0.9273
+    },
+    {
+      "threshold": 0.1,
+      "coverage": 1.0,
+      "accuracy": 0.9273
+    },
+    {
+      "threshold": 0.15,
+      "coverage": 0.9997,
+      "accuracy": 0.9276
+    },
+    {
+      "threshold": 0.2,
+      "coverage": 0.9994,
+      "accuracy": 0.9279
+    },
+    {
+      "threshold": 0.25,
+      "coverage": 0.9974,
+      "accuracy": 0.9294
+    },
+    {
+      "threshold": 0.3,
+      "coverage": 0.9945,
+      "accuracy": 0.9305
+    },
+    {
+      "threshold": 0.35,
+      "coverage": 0.9896,
+      "accuracy": 0.9347
+    },
+    {
+      "threshold": 0.4,
+      "coverage": 0.9841,
+      "accuracy": 0.9373
+    },
+    {
+      "threshold": 0.45,
+      "coverage": 0.9763,
+      "accuracy": 0.9395
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.964,
+      "accuracy": 0.9464
+    },
+    {
+      "threshold": 0.55,
+      "coverage": 0.9484,
+      "accuracy": 0.9534
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.9325,
+      "accuracy": 0.9593
+    },
+    {
+      "threshold": 0.65,
+      "coverage": 0.9172,
+      "accuracy": 0.9632
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.9062,
+      "accuracy": 0.9663
+    },
+    {
+      "threshold": 0.75,
+      "coverage": 0.8919,
+      "accuracy": 0.9698
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.8718,
+      "accuracy": 0.9739
+    },
+    {
+      "threshold": 0.85,
+      "coverage": 0.8422,
+      "accuracy": 0.9796
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.8091,
+      "accuracy": 0.9835
+    },
+    {
+      "threshold": 0.95,
+      "coverage": 0.7318,
+      "accuracy": 0.9916
+    }
+  ],
+  "thresholds": {
+    "answer": 0.71,
+    "clarify": 0.41,
+    "val_coverage_answer": 0.8077,
+    "val_acc_answer": 0.9512,
+    "val_share_clarify": 0.1478,
+    "val_share_handoff": 0.0445,
+    "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1",
+    "source": "RU-train out-of-fold (5 фолдов)"
+  },
+  "confusions_en": [
+    {
+      "pair": "fiat_currency_support → exchange_via_app",
+      "count": 4
+    },
+    {
+      "pair": "declined_transfer → declined_card_payment",
+      "count": 4
+    },
+    {
+      "pair": "card_swallowed → declined_cash_withdrawal",
+      "count": 4
+    },
+    {
+      "pair": "beneficiary_not_allowed → failed_transfer",
+      "count": 4
+    },
+    {
+      "pair": "wrong_exchange_rate_for_cash_withdrawal → card_payment_wrong_exchange_rate",
+      "count": 4
+    },
+    {
+      "pair": "get_disposable_virtual_card → getting_virtual_card",
+      "count": 4
+    },
+    {
+      "pair": "balance_not_updated_after_bank_transfer → transfer_timing",
+      "count": 4
+    },
+    {
+      "pair": "card_delivery_estimate → card_arrival",
+      "count": 3
+    },
+    {
+      "pair": "top_up_by_bank_transfer_charge → transfer_fee_charged",
+      "count": 3
+    },
+    {
+      "pair": "wrong_amount_of_cash_received → declined_cash_withdrawal",
+      "count": 3
+    }
+  ],
+  "confusions_ru": [
+    {
+      "pair": "card_not_working → declined_card_payment",
+      "count": 3
+    },
+    {
+      "pair": "direct_debit_payment_not_recognised → card_payment_not_recognised",
+      "count": 3
+    },
+    {
+      "pair": "pending_top_up → pending_card_payment",
+      "count": 3
+    },
+    {
+      "pair": "top_up_failed → pending_top_up",
+      "count": 3
+    },
+    {
+      "pair": "beneficiary_not_allowed → failed_transfer",
+      "count": 2
+    },
+    {
+      "pair": "card_arrival → card_delivery_estimate",
+      "count": 2
+    },
+    {
+      "pair": "card_payment_not_recognised → compromised_card",
+      "count": 2
+    },
+    {
+      "pair": "declined_card_payment → reverted_card_payment?",
+      "count": 2
+    },
+    {
+      "pair": "declined_transfer → declined_card_payment",
+      "count": 2
+    },
+    {
+      "pair": "declined_transfer → failed_transfer",
+      "count": 2
+    }
+  ],
+  "thresholds_en_val": {
+    "answer": 0.49,
+    "clarify": 0.49,
+    "val_coverage_answer": 0.967,
+    "val_acc_answer": 0.9504,
+    "val_share_clarify": 0.0,
+    "val_share_handoff": 0.033,
+    "rule": "answer: acc≥0.95; clarify: top3≥0.85 в каждом бине 0,1"
+  }
+}

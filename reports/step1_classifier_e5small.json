@@ -1,0 +1,400 @@
+{
+  "split": {
+    "train": 9002,
+    "val": 1001,
+    "test": 3080
+  },
+  "en": {
+    "majority": {
+      "n": 3080,
+      "accuracy": 0.013,
+      "macro_f1": 0.0003,
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.013,
+        "macro_f1": 0.0014
+      }
+    },
+    "keywords": {
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.7698,
+        "macro_f1": 0.5896
+      },
+      "note": "предсказывает только 15+2 скоуп-интента или other"
+    },
+    "tfidf_lr": {
+      "n": 3080,
+      "accuracy": 0.8857,
+      "macro_f1": 0.8862,
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.9597,
+        "macro_f1": 0.8937
+      }
+    },
+    "e5_lr": {
+      "n": 3080,
+      "accuracy": 0.9042,
+      "macro_f1": 0.9041,
+      "scope": {
+        "n": 3080,
+        "accuracy": 0.9597,
+        "macro_f1": 0.8902
+      }
+    }
+  },
+  "ru": {
+    "e5_lr_en_only": {
+      "n": 770,
+      "accuracy": 0.6948,
+      "macro_f1": 0.6821,
+      "scope": {
+        "n": 770,
+        "accuracy": 0.8805,
+        "macro_f1": 0.6792
+      }
+    },
+    "e5_lr_en_ru": {
+      "n": 770,
+      "accuracy": 0.861,
+      "macro_f1": 0.8572,
+      "scope": {
+        "n": 770,
+        "accuracy": 0.9312,
+        "macro_f1": 0.799
+      }
+    },
+    "coverage_curve": [
+      {
+        "threshold": 0.0,
+        "coverage": 1.0,
+        "accuracy": 0.861
+      },
+      {
+        "threshold": 0.05,
+        "coverage": 1.0,
+        "accuracy": 0.861
+      },
+      {
+        "threshold": 0.1,
+        "coverage": 1.0,
+        "accuracy": 0.861
+      },
+      {
+        "threshold": 0.15,
+        "coverage": 1.0,
+        "accuracy": 0.861
+      },
+      {
+        "threshold": 0.2,
+        "coverage": 0.9974,
+        "accuracy": 0.8633
+      },
+      {
+        "threshold": 0.25,
+        "coverage": 0.9948,
+        "accuracy": 0.8642
+      },
+      {
+        "threshold": 0.3,
+        "coverage": 0.9818,
+        "accuracy": 0.8717
+      },
+      {
+        "threshold": 0.35,
+        "coverage": 0.974,
+        "accuracy": 0.8747
+      },
+      {
+        "threshold": 0.4,
+        "coverage": 0.9584,
+        "accuracy": 0.8848
+      },
+      {
+        "threshold": 0.45,
+        "coverage": 0.9416,
+        "accuracy": 0.891
+      },
+      {
+        "threshold": 0.5,
+        "coverage": 0.926,
+        "accuracy": 0.9004
+      },
+      {
+        "threshold": 0.55,
+        "coverage": 0.9052,
+        "accuracy": 0.9053
+      },
+      {
+        "threshold": 0.6,
+        "coverage": 0.8805,
+        "accuracy": 0.91
+      },
+      {
+        "threshold": 0.65,
+        "coverage": 0.8571,
+        "accuracy": 0.9152
+      },
+      {
+        "threshold": 0.7,
+        "coverage": 0.8247,
+        "accuracy": 0.926
+      },
+      {
+        "threshold": 0.75,
+        "coverage": 0.7844,
+        "accuracy": 0.9421
+      },
+      {
+        "threshold": 0.8,
+        "coverage": 0.7403,
+        "accuracy": 0.9491
+      },
+      {
+        "threshold": 0.85,
+        "coverage": 0.6922,
+        "accuracy": 0.955
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.6442,
+        "accuracy": 0.9617
+      },
+      {
+        "threshold": 0.95,
+        "coverage": 0.5364,
+        "accuracy": 0.9782
+      }
+    ],
+    "ece": 0.0289,
+    "majority": {
+      "n": 770,
+      "accuracy": 0.013,
+      "macro_f1": 0.0014
+    },
+    "keywords": {
+      "scope": {
+        "n": 770,
+        "accuracy": 0.7247,
+        "macro_f1": 0.5265
+      }
+    },
+    "tfidf_lr_en_only": {
+      "n": 770,
+      "accuracy": 0.0351,
+      "macro_f1": 0.0295
+    },
+    "tfidf_lr_en_ru": {
+      "n": 770,
+      "accuracy": 0.7896,
+      "macro_f1": 0.788,
+      "scope": {
+        "n": 770,
+        "accuracy": 0.9169,
+        "macro_f1": 0.7781
+      }
+    }
+  },
+  "calibration": {
+    "temperature": 0.509,
+    "ece_test_before": 0.1975,
+    "ece_val": 0.0139,
+    "ece_test": 0.0183
+  },
+  "coverage_curve_test_en": [
+    {
+      "threshold": 0.0,
+      "coverage": 1.0,
+      "accuracy": 0.9042
+    },
+    {
+      "threshold": 0.05,
+      "coverage": 1.0,
+      "accuracy": 0.9042
+    },
+    {
+      "threshold": 0.1,
+      "coverage": 1.0,
+      "accuracy": 0.9042
+    },
+    {
+      "threshold": 0.15,
+      "coverage": 1.0,
+      "accuracy": 0.9042
+    },
+    {
+      "threshold": 0.2,
+      "coverage": 0.999,
+      "accuracy": 0.9051
+    },
+    {
+      "threshold": 0.25,
+      "coverage": 0.9968,
+      "accuracy": 0.9068
+    },
+    {
+      "threshold": 0.3,
+      "coverage": 0.9929,
+      "accuracy": 0.9097
+    },
+    {
+      "threshold": 0.35,
+      "coverage": 0.9864,
+      "accuracy": 0.9138
+    },
+    {
+      "threshold": 0.4,
+      "coverage": 0.9766,
+      "accuracy": 0.9182
+    },
+    {
+      "threshold": 0.45,
+      "coverage": 0.9662,
+      "accuracy": 0.9234
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.9562,
+      "accuracy": 0.9284
+    },
+    {
+      "threshold": 0.55,
+      "coverage": 0.9393,
+      "accuracy": 0.9367
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.9256,
+      "accuracy": 0.9435
+    },
+    {
+      "threshold": 0.65,
+      "coverage": 0.9049,
+      "accuracy": 0.9534
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.8857,
+      "accuracy": 0.9608
+    },
+    {
+      "threshold": 0.75,
+      "coverage": 0.8656,
+      "accuracy": 0.9647
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.8386,
+      "accuracy": 0.9679
+    },
+    {
+      "threshold": 0.85,
+      "coverage": 0.8123,
+      "accuracy": 0.9768
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.7698,
+      "accuracy": 0.9836
+    },
+    {
+      "threshold": 0.95,
+      "coverage": 0.6938,
+      "accuracy": 0.9869
+    }
+  ],
+  "thresholds": {
+    "answer": 0.57,
+    "clarify": 0.42,
+    "val_coverage_answer": 0.9311,
+    "val_acc_answer": 0.9517,
+    "val_share_clarify": 0.034,
+    "val_share_handoff": 0.035,
+    "rule": "answer: acc≥0.95; clarify: top3≥0.85"
+  },
+  "confusions_en": [
+    {
+      "pair": "fiat_currency_support → exchange_via_app",
+      "count": 5
+    },
+    {
+      "pair": "top_up_by_bank_transfer_charge → transfer_fee_charged",
+      "count": 5
+    },
+    {
+      "pair": "pending_transfer → balance_not_updated_after_bank_transfer",
+      "count": 5
+    },
+    {
+      "pair": "get_disposable_virtual_card → getting_virtual_card",
+      "count": 5
+    },
+    {
+      "pair": "balance_not_updated_after_bank_transfer → transfer_timing",
+      "count": 5
+    },
+    {
+      "pair": "declined_transfer → declined_card_payment",
+      "count": 4
+    },
+    {
+      "pair": "beneficiary_not_allowed → failed_transfer",
+      "count": 4
+    },
+    {
+      "pair": "card_arrival → card_delivery_estimate",
+      "count": 3
+    },
+    {
+      "pair": "extra_charge_on_statement → card_payment_fee_charged",
+      "count": 3
+    },
+    {
+      "pair": "pending_cash_withdrawal → cash_withdrawal_not_recognised",
+      "count": 3
+    }
+  ],
+  "confusions_ru": [
+    {
+      "pair": "beneficiary_not_allowed → failed_transfer",
+      "count": 3
+    },
+    {
+      "pair": "card_not_working → declined_card_payment",
+      "count": 3
+    },
+    {
+      "pair": "declined_transfer → declined_card_payment",
+      "count": 3
+    },
+    {
+      "pair": "direct_debit_payment_not_recognised → cash_withdrawal_not_recognised",
+      "count": 3
+    },
+    {
+      "pair": "pending_transfer → balance_not_updated_after_bank_transfer",
+      "count": 3
+    },
+    {
+      "pair": "automatic_top_up → topping_up_by_card",
+      "count": 2
+    },
+    {
+      "pair": "card_payment_not_recognised → direct_debit_payment_not_recognised",
+      "count": 2
+    },
+    {
+      "pair": "declined_transfer → failed_transfer",
+      "count": 2
+    },
+    {
+      "pair": "disposable_card_limits → getting_spare_card",
+      "count": 2
+    },
+    {
+      "pair": "get_disposable_virtual_card → getting_virtual_card",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+text,label,text_en
+"мне должны были сделать возврат но баланс не изменился, почему?",Refund_not_showing_up,"i was supposed to get a refund but my balance hasn't changed, why not?"
+"Подскажите, когда придет возврат? В выписке его до сих пор нет.",Refund_not_showing_up,Do you have any idea on when I will receive my refund? I got my statement and it was not there.
+сделал возврат товара а деньги на счет так и не пришли,Refund_not_showing_up,I bought something and returned it and the money from the return isn't in my account.
+Мне не пришел возврат.,Refund_not_showing_up,I am missing a refund.
+В выписке не отображается возврат,Refund_not_showing_up,There's a refund missing from my statement
+все еще жду возврат,Refund_not_showing_up,Still waiting on a refund.
+"Помогите вернуть деньги от продавца. Запрос отправил давно, но в выписке до сих пор ничего нет. Не понимаю, почему они еще не вернулись. Можете помочь вернуть деньги?",Refund_not_showing_up,I would like some help getting a refund back from a seller. It still isn't showing up on my statement and I requested this a long time ago. I'm not sure why it's not returned yet. Can you assist me in getting this money back?
+"Кажется, возврат не отображается в выписке.",Refund_not_showing_up,My refund doesn't seem to be showing on my statement.
+мне должен был прийти возврат но в выписке его нет,Refund_not_showing_up,I should have received a refund however it is not showing on my statement
+Я жду свой возврат,Refund_not_showing_up,I am awaiting my refund
+"только получил карту и хочу начать пользоваться, как ее активировать?",activate_my_card,"I just got my card and want to use it, how do I activate my card?"
+как активировать карту?,activate_my_card,how to activate card?
+"Помогите, пожалуйста, активировать новую карту.",activate_my_card,I need help activating my new card.
+как активировать карту?,activate_my_card,How can I activate my card>
+Как активировать карту чтобы начать ей пользоваться?,activate_my_card,How can I activate my card so I can start using it?
+ЧТО ДЕЛАТЬ ЕСЛИ ПОТЕРЯЛ КАРТУ,activate_my_card,WHAT CAN I DO AFTER THE CARD MISSING
+только что забрал карту и не знаю как ее активировать,activate_my_card,I just got this card & I don't know how to activate it.
+какие действия нужны чтобы активировать новую карту?,activate_my_card,What are the steps in order to activate my new card?
+Что мне нужно сделать для активации карты?,activate_my_card,What do I need to do to activate my card?
+Как правильно активировать карту?,activate_my_card,What's the right way to activate my card?
+со скольки лет детям можно пользоваться вашим приложением?,age_limit,If my kids wanted to use your service how old would they have to be?
+Можно ли открыть счет на новорожденного?,age_limit,Can I open a bank account for my newborn baby?
+как открыть счет на ребенка?,age_limit,How do I open up an account for my child?
+Есть ли какие-то ограничения по возрасту для детей чтобы пользоваться сервисом?,age_limit,Do my kids have to be a certain age to use this service?
+со скольки лет можно стать клиентом,age_limit,How old do we have to be?
+"Мне только 17, могу я открыть счет?",age_limit,I am only 17. Can I make an account?
+какой минимальный возраст для открытия счета?,age_limit,How young can someone be in order to open an account?
+Со скольки лет можно открыть у вас счет?,age_limit,How old do you have to be to be able to open an account?
+Сколько лет должно быть человеку чтобы открыть счет в вашем банке?,age_limit,How old does one have to be to have an account with the bank?
+есть минимальный возраст?,age_limit,Is there an age minimum?
+Не получается пополнить через Apple Pay,apple_pay_or_google_pay,My top up is not working in Apple Pay.
+Можно ли пополнить баланс через Apple Pay?,apple_pay_or_google_pay,"If I want to top up, can I use Apple Pay?"
+как закинуть денег с apple watch,apple_pay_or_google_pay,how do i add money with my apple watch
+Не могу пополнить счет через Apple Pay картой American Express,apple_pay_or_google_pay,I can't top up my account using my American Express with Apple Pay.
+можно пополнить счет с эпл вотч?,apple_pay_or_google_pay,Can I use my Apple Watch to to top up?
+"Получил карту American Express, но не получается привязать к Apple Pay. Помогите настроить?",apple_pay_or_google_pay,"I received my American Express card, but I am having problems making it work with Apple pay.  Can you help me with this problem?"
+Почему не проходит пополнение через сохраненную American Express в ApplePay?,apple_pay_or_google_pay,Why isn't my top up working using my saved American Express in ApplePay?
+добавил American Express в Apple Pay почему пополнение не работает,apple_pay_or_google_pay,"I got my American Express in Apple Pay, why is top up not working?"
+"Хочу пополнять через Google Pay, так можно?",apple_pay_or_google_pay,"Google pay and top up, I want it, can I get it?"
+Не работает пополнение через Google Pay.,apple_pay_or_google_pay,Top up on my Google Pay isn't working.
+я могу снимать деньги в любых банкоматах?,atm_support,Can I use my card at any ATMs?
+откуда можно снять наличку?,atm_support,From where can I withdraw?
+сколько километров до ближайшего банкомата?,atm_support,How many miles away is the ATM?
+в каких банкоматах работает эта карта?,atm_support,Where can I use this card at an ATM?
+есть конкретные банкоматы где эта карта обслуживается?,atm_support,Are there any specific ATMs that this card can be used at?
+как найти ближайший банкомат,atm_support,How can I find the nearest ATM?
+с этой карты можно снять в банкомате?,atm_support,Can I use this card at an ATM?
+с этой картой в какие банкоматы можно обращаться?,atm_support,"If I have this card, which ATMs can I go to?"
+где снять деньги адреса,atm_support,locations to withdraw money
+какие банкоматы принимают мою карту?,atm_support,Which ATM's accept my card?
+как сделать так чтобы в поездке деньги на карте внезапно не кончились?,automatic_top_up,How do I make sure I don't run out of money on my card while traveling?
+есть ли лимит на автопополнение?,automatic_top_up,Do you have any limit on the auto top-up?
+помогите настроить автопополнение пжлст,automatic_top_up,can you assist me with the auto top up ?
+деньги автоматически докинутся если баланс будет на исходе?,automatic_top_up,Will it automatically top-up money if there isn't a lot left?
+как пользоваться автопополнением?,automatic_top_up,How do I use auto top up?
+у вас есть опция автопополнения?,automatic_top_up,Is there an auto top-up option?
+есть функция докидывать деньги если на карте почти ничего не осталось?,automatic_top_up,"Is there a top-up feature, if there isn't a lot of money left?"
+можно настроить чтобы деньги сами закидывались через определенные промежутки времени?,automatic_top_up,Can I have it add money automatically in certain intervals?
+как включить автопополнение,automatic_top_up,How do I enable auto-top up?
+"если мало денег осталось, она может сама пополниться?",automatic_top_up,If there isn't much money left can it automatically top-up?
+Перевод до сих пор не отображается на счете.,balance_not_updated_after_bank_transfer,My bank transfer is still not showing up in my account.
+"посмотрите плиз перевод, отправлял пару часов назад из британского банка, пока так и не дошел",balance_not_updated_after_bank_transfer,"Could you please check one of my transfer which i made few hours ago from my UK bank account, as its not showing yet."
+После перевода баланс не обновился.,balance_not_updated_after_bank_transfer,"After the transfer, the balance did not update."
+"Перевод отправил, но он нигде не отображается.",balance_not_updated_after_bank_transfer,I have completed a transfer but it is not showing up.
+Через сколько обновится баланс после перевода?,balance_not_updated_after_bank_transfer,When will my balance update after a transfer?
+"Здравствуйте! Пару часов назад сделал перевод со своего счета в Англии, но денег пока нет. Можете проверить, все ли там нормально?",balance_not_updated_after_bank_transfer,Hello I made a bank transfer couple hours ago from my UK account but it doesn't show up yet. Can you please check if everything is alright with it?
+почему баланс не изменился после перевода,balance_not_updated_after_bank_transfer,Why doesn't my balance reflect my transfer
+"Сделал перевод себе на счет, а денег не видно.",balance_not_updated_after_bank_transfer,I did a transfer to my account but it doesn't show up
+Когда обновится баланс после банковского перевода?,balance_not_updated_after_bank_transfer,When will I see my new balance after making my bank transfer?
+"Сколько обычно идут переводы из Великобритании? Только что отправил, а денег вообще не видно. Начинаю переживать, все ли в порядке.",balance_not_updated_after_bank_transfer,The amount of time that transfers usually take from a UK account is what?I just completed a transfer and it is not showing up at all. I'm wondering at this point if everything is actually okay.
+"Пару дней назад отправил чек, на счете тишина. Можете глянуть, в чем там дело?",balance_not_updated_after_cheque_or_cash_deposit,"I Submitted a cheque couple days ago, nothing happened to my account yet.Would you please check What could be the possible issue?"
+а на мой счет можно чеки зачислять? у меня чет не сработало,balance_not_updated_after_cheque_or_cash_deposit,Are cheques accepted to my account? Mine didn't seem to work.
+"Внес деньги, а баланс на счете так и не обновился.",balance_not_updated_after_cheque_or_cash_deposit,The balance on my account wasn't updated after I made a depost.
+Почему баланс не увеличился после внесения чека?,balance_not_updated_after_cheque_or_cash_deposit,Why hasn't my balance increased after depositing a check?
+"Я почти неделю назад внес наличку, а денег до сих пор нет!! разберитесь срочно они мне нужны",balance_not_updated_after_cheque_or_cash_deposit,I made a cash deposit almost a week ago but it's still not there!! please sort this out asap I need the money
+"Утром закинул деньги, а платеж до сих пор висит в обработке?",balance_not_updated_after_cheque_or_cash_deposit,I made a deposit this morning but it is still pending?
+Баланс не обновился после внесения чека или налички.,balance_not_updated_after_cheque_or_cash_deposit,Balance hasn't been updated following a cheque or cash deposit
+почему на мой счет нельзя внести наличные?,balance_not_updated_after_cheque_or_cash_deposit,Why does my account not accept cash deposits?
+Я вам чек отправил пару дней назад и тишина! Это вообще нормально?? где мои деньги??,balance_not_updated_after_cheque_or_cash_deposit,"I sent you a cheque couple days ago, nothing happened to my account yet! This is unacceptable, where is my money??"
+"Что сделать, чтобы внесенные наличные отобразились на счете?",balance_not_updated_after_cheque_or_cash_deposit,How can I get the cash deposit to show up on my account?
+деньги не переводятся получателю,beneficiary_not_allowed,The money would not transfer to a beneficiary.
+"Уже кучу раз пытаюсь перевести деньги, постоянно вылезает ошибка. Подскажите, что происходит и как это исправить?",beneficiary_not_allowed,I have tried transferring money numerous times.  All I keep getting is an error message.  Can you tell me what is going on and how this van be fixed?
+можно перевести деньги другому человеку?,beneficiary_not_allowed,Can I transfer money to a beneficiery?
+"Почему перевод не проходит? Пишет, что это невозможно. Раньше всё нормально работало.",beneficiary_not_allowed,Why isn't my transfer going through? I get a message saying it's not possible. I've had no issues in the past.
+мне перевод заблокировали,beneficiary_not_allowed,I had a transfer blocked
+А почему у вас в приложении крипты вообще нет?,beneficiary_not_allowed,What's the deal with no cryptocurrency on your app?
+хочу купить крипту но в приложении не дает почему?,beneficiary_not_allowed,"I want to buy cryptocurrency, but your app doesn't let me. Why?"
+Не получилось сделать перевод получателю!,beneficiary_not_allowed,I couldn't make a transfer to a beneficiary!
+Почему перевод на счет не прошел?,beneficiary_not_allowed,Why was a transfer to an account not allowed?
+Как нормально перевести деньги на счет?,beneficiary_not_allowed,How do I do a successful transfer to an account?
+можно отменить перевод если он уже прошел?,cancel_transfer,Can I cancel a transfer if is already processed?
+"Хочу отменить операцию, которую делал ранее",cancel_transfer,I want to reverse my transaction from earlier
+можно перевод отменить,cancel_transfer,Can I cancel a transfer
+"Перевод, который я только что отправил, надо срочно отменить! Я ошибся. Помогите отменить, пока деньги не ушли!",cancel_transfer,The transfer I just made needs to be cancelled right now. It was my mistake. Please help me cancel it before it goes through!
+"Подскажите, как отменить перевод.",cancel_transfer,Tell me how to cancel a transfer.
+Мне нужно срочно отменить перевод! Поможете?,cancel_transfer,I want to cancel a transfer right away! Can you help?
+я не хочу чтобы этот перевод сейчас проходил,cancel_transfer,I don't want the transaction to go through now
+хочу отменить то что с утра наделал по операциям,cancel_transfer,I want to go back on what I did this morning
+"Пожалуйста, помогите! Мне нужно отменить операцию.",cancel_transfer,Please help me!  I need to cancel a transaction.
+"Срочно нужно отменить последний перевод, ошибся данными, помогите быстрее пока не ушло",cancel_transfer,"I need to cancel my recent transfer immediately, I made a mistake there, please help quickly before it goes through"
+"мне скоро понадобится новая карта, как ее заказать?",card_about_to_expire,"I will need to get a new card soon, how do I order?"
+"кажется у меня в следующем месяце карта истекает, можно заказать новую?",card_about_to_expire,"It appears my card expires next month, can I order a new one?"
+"мне нужна новая карта, у текущей срок действия почти кончился",card_about_to_expire,"I need a new card, my current card is nearly expired."
+"нужно заказать новую карту, у моей заканчивается срок. сколько это будет стоить и через сколько она придет?",card_about_to_expire,"I need to order a  new card, mine is about to expire and I need to know how much it will cost and how long until I receive it."
+у карты скоро срок действия заканчивается,card_about_to_expire,The expiration date on my card is coming up
+когда у карты истекает срок вы автоматически новую высылаете?,card_about_to_expire,When my card expires do you send a new card?
+если срок карты подходит к концу мне надо самому новую заказывать?,card_about_to_expire,"If my card is about to expire, do I need to order a new one?"
+как заказать новую карту пока старая не просрочилась?,card_about_to_expire,How do I order a new card before It expires?
+подскажите по стоимости и срокам доставки новой карты взамен старой,card_about_to_expire,I need to know the cost and when I will receive a new card to replace an old one.
+у меня карта скоро закончится. что делать надо?,card_about_to_expire,My card is about to expire. What do I need to do?
+"еду в Германию, карта будет там работать?",card_acceptance,"I am traveling to Germany, Will I be able to use my card there?"
+в каких магазинах принимают эту карту?,card_acceptance,"
+
+What businesses accept this card?"
+эта карта везде работает?,card_acceptance,Does this card work everywhere?
+где принимают мою карту?,card_acceptance,Where is my card accepted?
+где можно этой картой расплачиваться,card_acceptance,Where can the card be used?
+в каких местах я могу платить своей картой?,card_acceptance,What places can I use my card?
+где вообще можно использовать карту?,card_acceptance,Where am I able to use the card?
+где я могу расплатиться дебетовой или кредитной картой?,card_acceptance,Where can I pay with my debit or credit card?
+кто принимает к оплате мою карту?,card_acceptance,Who accepts my card?
+есть какие-то ограничения по местам где можно платить картой?,card_acceptance,Are there any limits on where I can use my card?
+"Прошло уже 2 недели, а карты все нет. Она потерялась?",card_arrival,My card still hasn't arrived after 2 weeks. Is it lost?
+"Жду карту дольше, чем обещали.",card_arrival,I've been waiting longer than expected for my card.
+"я уже слишком долго жду свою карту, подскажите когда она вообще приедет?",card_arrival,"I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?"
+"Кажется, с доставкой карты что-то пошло не так, я ее до сих пор не получил.",card_arrival,I think something went wrong with my card delivery as I haven't received it yet.
+моя карта еще не пришла,card_arrival,My card has not arrived yet.
+Прошло 2 недели а карты все еще нет. Что мне делать?,card_arrival,I still don't have my card after 2 weeks.  What should I do?
+А есть какой-то трек-номер для отслеживания?,card_arrival,Is there tracking info available?
+"Все еще жду доставку новой карты, почему так долго?",card_arrival,"I'm still waiting for delivery of my new card, why is it taking so long?"
+"Где трек номер карты, которую вы мне отправили?",card_arrival,Where is the tracking number for the card you sent me?
+"Подскажите, есть трек-номер для отслеживания новой карты которую вы выслали?",card_arrival,Do you know if there is a tracking number for the new card you sent me?
+сколько по времени будет идти карта?,card_delivery_estimate,How long will it take for the card to arrive?
+"Мне нужно, чтобы доставили в определенный день.",card_delivery_estimate,I need it delivered on a certain date.
+Можно выбрать дату доставки?,card_delivery_estimate,May I choose when it's delivered?
+В какие дни и часы вообще доставляют карты?,card_delivery_estimate,When are cards delivered?
+хотелось бы узнать когда приедет моя карта,card_delivery_estimate,I'm just wondering when my card will get here.
+Можно привезти карту в конкретный день?,card_delivery_estimate,Can I have my card delivered on a specific day?
+можно выбрать дату доставки,card_delivery_estimate,can I choose a date for delivery?
+Сколько будет идти доставка в США?,card_delivery_estimate,How long does shipping take to get to a US destination?
+А можно доставку к определенному времени заказать?,card_delivery_estimate,Can I have it be delivered at a certain time?
+Сколько времени займет доставка в США?,card_delivery_estimate,How long will it take to deliver something to US?
+"нашел свою карту, можно её в приложение добавить?",card_linking,"I found my card, can I add it to the app?"
+"подскажите как привязать вашу карту, которая у меня уже есть?",card_linking,Can you tell me how to link one of your cards that I already have?
+"Здравствуйте, нашел карту которую потерял, надо активировать обратно, как это сделать?",card_linking,"Hello, I found the card I misplaced and I need to reactive it, how do I do that?"
+В приложении не отображается карта которую я получил,card_linking,The app doesn't show the card I received.
+"Как привязать карту, которая у меня уже на руках?",card_linking,How do I link a card that I already have?
+как привязать вашу карту если она у меня уже есть,card_linking,How do I link one your card if I have one already?
+"У меня уже есть ваша карта, как мне её привязать?",card_linking,"I already have one of your cards, how do I link them?"
+как привязать карту которая уже есть?,card_linking,how do I link a card I already have?
+Можно ли привязать еще одну карту к своему счету?,card_linking,Can I link another card to my account?
+Как заново добавить карту в приложение?,card_linking,How do I re-add a card to the app?
+Что делать если оплата по карте вообще не проходит?,card_not_working,How can I resolve a problem where my card won't go through at all?
+у меня карта больше не работает,card_not_working,My card isn't working anymore.
+Почему карта не работает?,card_not_working,Why isn't my card working?
+Карта перестала работать при оплате,card_not_working,My card stopped working when I use it
+карта сломалась,card_not_working,My card broke.
+"Помогите, у меня карта не работает.",card_not_working,Help me.  My card doesn't work.
+вообще никакие платежи по карте не проходят,card_not_working,Nothing goes through on my card.
+Не могу пользоваться картой.,card_not_working,I can't use my card.
+может я сам карту заблокировал? она не работает,card_not_working,"Could it be that I deactivated my card, its not working?"
+Почему у меня не работает карта?,card_not_working,Why is my card not working?
+почему с меня списали комиссию за оплату картой?,card_payment_fee_charged,Why would I be charged a fee for card payment?
+"Оплатил картой, а там какая-то комиссия висит?",card_payment_fee_charged,I made a card payment and a fee is showing up?
+Почему при оплате картой сумма вышла больше?,card_payment_fee_charged,Why did I have to pay more when I do it with my card?
+А за оплату картой есть комиссия?,card_payment_fee_charged,Is there a fee when you pay with your card?
+"почему за одни платежи снимают комиссию, а за другие нет",card_payment_fee_charged,"Why do I get charged additional fees on some payments, but not others?"
+не пойму за что это списание,card_payment_fee_charged,im not sure what this charge is for
+С меня списали комиссию за оплату картой. Почему?,card_payment_fee_charged,I was charged a fee for a card payment. Why?
+С меня взяли комиссию за то что я платил картой.,card_payment_fee_charged,I have been charged with a fee for paying with my card.
+С меня списали деньги за оплату картой.,card_payment_fee_charged,They charged me for paying with my card.
+почему с меня взяли комиссию за оплату картой,card_payment_fee_charged,Why was I charged for card payment?
+платеж который я не совершал,card_payment_not_recognised,Payment i did not do
+"Можете заблокировать мой счет? Я только что увидел операции, которых не совершал. Что теперь делать?",card_payment_not_recognised,Can you freeze my account?  I just saw there are transactions on my account that I don't recognize.  How can I fix this?
+"Тут платеж, который я не делал.",card_payment_not_recognised,There is a payment that is not mine.
+не помню такую оплату по карте,card_payment_not_recognised,I'm not familiar with a card payment.
+"В приложении висит операция, которую я не совершал",card_payment_not_recognised,An unauthorized payment is in my app
+"У меня по карте пару дней назад прошли странные списания, я их не делал. Карту украли? Надо ее блокировать? Деньги вернут?",card_payment_not_recognised,There are some strange charges on my card that I didn't make from a few days ago.  Is my card stolen and if so should I cancel it?  Will I get refunded the charges?
+В выписке какое-то мошенническое списание.,card_payment_not_recognised,There is a fraudulent charge on my statement.
+"У меня в выписке операция, которую я не подтверждал",card_payment_not_recognised,I have an unauthorized transaction on my statement
+в выписке висит платеж который я не узнаю,card_payment_not_recognised,In my statement there is a payment that is I do not recognize
+"Что делать если я вижу платеж, который не совершал?",card_payment_not_recognised,What should I do if I see a payment I didn't make?
+"Я сделал покупку, а курс конвертации посчитали неправильно.",card_payment_wrong_exchange_rate,I purchased an item and the exchange rate I was given was incorrect.
+В прошлую субботу курс по операции был явно не тот с меня списали лишнее. Исправьте пожалуйста.,card_payment_wrong_exchange_rate,The exchange rate for my transaction last Saturday seems to have been wrong I got charged extra.  Please fix.
+"Покупал за границей, в выписке курс обмена вообще неправильный стоит.",card_payment_wrong_exchange_rate,I bought something overseas and the wrong exchange rate is on my statement.
+курс обмена неправильный выставили после покупки,card_payment_wrong_exchange_rate,"The exchange rate given to me wasn't correct, after i purchased an item"
+У меня курс списания по покупке неправильный.,card_payment_wrong_exchange_rate,The exchange rate on my purchase is wrong.
+Когда оплачивал покупку курс валют посчитали неверно.,card_payment_wrong_exchange_rate,The rate for a currency exchange was wrong when I bought something.
+У вас абсолютно неправильный курс конвертации по оплате картой,card_payment_wrong_exchange_rate,Your exchange rate is totally wrong for my card payment
+"Здравствуйте, мне кажется у вас курс неправильный. Проверьте пожалуйста официальный биржевой курс.",card_payment_wrong_exchange_rate,"Hi, I don't think your exchange rate is right. I need you to check the official interbank exchange please."
+делал покупку за границей и применился неправильный курс,card_payment_wrong_exchange_rate,I go the wrong exchange rate applied to my purchase in a foreign country.
+"Я тут оплатил покупку, но курс обмена какой-то странный.",card_payment_wrong_exchange_rate,"I bought something, but the exchange rate looks wrong."
+банкомат до сих пор держит мою карту,card_swallowed,ATM still has my card
+Банкомат не отдает карту.,card_swallowed,The ATM won't give me my card back.
+Банкомат сожрал мою карту.,card_swallowed,The ATM ate my card.
+Помогите! банкомат не возвращает карту,card_swallowed,Help!  The atm won't give me my card back.
+Как вернуть карту если ее затянул банкомат?,card_swallowed,HOw do I get my card back after the ATM has pulled it in?
+Банкомат украл мою карту.,card_swallowed,The ATM machine stole my card.
+Стоял у банкомата и он проглотил мою карту.,card_swallowed,I was at an ATM and it swallowed my card.
+Этот дурацкий аппарат только что сожрал карту!! Мне срочно нужна новая,card_swallowed,The stupid machine just swallowed my card!! I need a new one ASAP
+что делать если карта застряла в банкомате?,card_swallowed,What happens if my card is stuck in the ATM?
+Есть способ как-то вытащить карту из банкомата обратно?,card_swallowed,Is there a way I can get my ATM card back from the machine?
+"Заметил, что с меня списали комиссию за снятие наличных, можете объяснить почему?",cash_withdrawal_charge,"I've notice I was charged for withdrawing cash, can you explain why?"
+за что комиссия после обычного снятия наличных?,cash_withdrawal_charge,What is the reason for this fee I got after a simple cash withdrawal?
+С меня взяли комиссию за снятие в банкомате.,cash_withdrawal_charge,I got a fee for an ATM withdrawal.
+"Снял деньги в банкомате и списалась дополнительная комиссия, почему?",cash_withdrawal_charge,Using an ATM caused me to incur an additional fee. Why?
+"Почему берут комиссию за снятие налички? Сегодня после покупок снял немного денег, а там комиссия, раньше такого не было.",cash_withdrawal_charge,Why are fees charged on cash withdrawals? I went to withdraw some money earlier today after shopping. There's a fee that wasn't there before.
+почему с меня взяли комиссию когда я снимал наличные?,cash_withdrawal_charge,Why did I have to pay a fee when I got cash?
+"Снимал наличку, и похоже из-за какого-то сбоя с меня списали лишнее.",cash_withdrawal_charge,"When I got cash, I'm pretty sure there was a glitch that overcharged me."
+с меня списали лишние деньги за снятие,cash_withdrawal_charge,I was charged extra for a withdrawal
+Почему за снятие наличных берется комиссия?,cash_withdrawal_charge,Why is there a fee for withdrawing?
+"Похоже с меня взяли комиссию за снятие в банкомате вашего банка. Почему так, если раньше никогда не брали?",cash_withdrawal_charge,It looks like I was charged a withdrawal fee for going to my ATM. Why is that because I haven't been charged previously for doing so?
+"Похоже кто-то другой снял деньги с моего счета, помогите пожалуйста",cash_withdrawal_not_recognised,"It looks like someone else withdrew cash from my account, can you help?"
+"вижу в приложении какое-то снятие наличных, я его не делал",cash_withdrawal_not_recognised,I am seeing in the App a some cash withdrawal that its not mine
+кажется кто-то снимает деньги с моей карты у меня украли кошелек что делать это срочно,cash_withdrawal_not_recognised,i think someone is using my card to withdraw money. Someone stole my wallet. What can I do? it is urgent.
+"Как заблокировать карту? У меня по счету проходят списания, которые я не совершал.",cash_withdrawal_not_recognised,How do I cancel my card? There are charges on my account that I didn't make.
+"В приложении висит снятие налички, но я ничего не снимал.",cash_withdrawal_not_recognised,My app shows some cash I didn't get.
+"Зашел в приложение и увидел лишнее снятие наличных, я эту операцию не подтверждал",cash_withdrawal_not_recognised,I checked the app and saw an extra cash withdrawal that I didn't authorize
+в приложении висит снятие в банкомате я его не узнаю,cash_withdrawal_not_recognised,There is an ATM withdrawl in the app I don't recognize.
+"Тут какая-то ошибка, приложение пишет что я снимал деньги в банкомате, хотя я этого не делал.",cash_withdrawal_not_recognised,"There is an error, the app says I made an ATM withdrawal and I didn't."
+"В приложении ошибка, написано что я снял наличные.",cash_withdrawal_not_recognised,The app made a mistake and said I made a cash withdrawal.
+По счету прошло подозрительное снятие наличных.,cash_withdrawal_not_recognised,There is a suspicious cash withdraw on the account.
+хочу поменять пин-код,change_pin,I would like to change my pin.
+как сменить пин код?,change_pin,How can I change my Tholepin ?
+Как обновить пин-код на новый?,change_pin,How do I update my PIN to a new number?
+можно мне другой пин код от карты,change_pin,May I receive a different card pin
+А можно поменять пин в банкомате?,change_pin,Can i change my PIN at the ATM?
+в каком банкомате можно сменить пин?,change_pin,In what ATM can I change my pin?
+что нужно сделать чтобы поменять пин на карте?,change_pin,What steps do I need to take to change my card PIN?
+"Что мне нужно сделать, чтобы сменить пин-код?",change_pin,What do I need to do to change my PIN?
+как поменять пин? обязательно в отделение идти?,change_pin,How can I change the PIN?  Do I have to go to a real bank?
+хочу сменить пин код но я сейчас не в россии,change_pin,I would like to change my PIN but I am not currently in the country.
+"у меня какие-то левые списания по счету, меня взломали?",compromised_card,"I see random purchases to my account, was it hacked?"
+можно через приложение заблочить счет и оспорить мошенничество?,compromised_card,Can I use app to freeze account and dispute fraud?
+"Я не узнаю некоторые операции по карте, кажется, кто-то узнал данные моей карты и расплачивается ей.",compromised_card,"I don't recognize some of the transactions on my card, I think someone must have gotten my card info and used it."
+"не уверена точно, но кажется моей картой кто-то пользуется",compromised_card,"I'm not certain, but someone may be using my card."
+Можно заблокировать карту прямо сейчас?,compromised_card,Can I freeze my card right now?
+Как мне сейчас остановить мошеннические списания со счета?,compromised_card,How can I stop fraud on my account right now?
+"Что делать, если мне кажется, что кто-то пользуется моей картой?",compromised_card,What should I do if I think someone is using my card.
+как заблокировать карту? кажется кто то с нее кучу покупок в интернете делает,compromised_card,How do I freeze my card? I think someone is using it to make a bunch of online transactions.
+"Моей картой кто-то пользуется, заблокируйте ее срочно",compromised_card,"Someone else is using my card, freeze it."
+"Тут операции, которых я не совершал, похоже, кто-то воспользовался моей картой.",compromised_card,"There are transactions I didn't make, someone else must have used my card."
+помогите починить бесконтактную оплату,contactless_not_working,Can you help my fix my contactless?
+почините бесконтактную оплату,contactless_not_working,Fix my contactless
+что делать если бесконтактная оплата не работает?,contactless_not_working,What can I do if contactless doesn't work?
+сколько стоит перевыпуск карты,contactless_not_working,what is the charges for new card?
+как включить бесконтактную оплату на карте?,contactless_not_working,How do I get the contactless feature to work for my card?
+у меня бесконтактная оплата не работает,contactless_not_working,Contactless isn't working for me
+нужно сначала обычной оплатой с пином воспользоваться перед бесконтактом?,contactless_not_working,Do I need to make a regular payment before a contactless one?
+не работает бесконтактная оплата на карте,contactless_not_working,The contactless I have won't work.
+мне переустановить платежное приложение?,contactless_not_working,Should i reinstall the payment app?
+"уже больше недели не могу платить бесконтактно с карты, как это исправить?",contactless_not_working,I've been unable to pay contactless with my card for over a week now. Is there a way to fix this issue?
+можно оформить карту если я живу не в россии?,country_support,Can I get a card even if I live outside the UK?
+моя страна поддерживается?,country_support,Is my country supported
+реально получить карту если я сейчас не в рф?,country_support,Is it possible to get a card if I'm not in the UK?
+мне нужна карта но я сейчас в сша,country_support,"I need a card, but I'm in the US at the moment."
+"я живу в сша, можно мне карту оформить?",country_support,i live in the US can i still get a card?
+вы работаете с евросоюзом?,country_support,Do you support the EU?
+в каких странах вы работаете?,country_support,What countries do you do business in?
+в каких странах будет работать моя карта?,country_support,What countries will my card be supported in?
+карту могут доставить в европу и будет ли она там работать?,country_support,Can the card be mailed and used in Europe?
+я не в россии могу ли я все равно получить карту,country_support,"I'm not in the UK, can I still get a card?"
+Почему вы отклоняете мой платеж? Все же нормально было.,declined_card_payment,Why are you declining my payment? Everything was fine.
+"У меня не прошел платеж по карте, почему?",declined_card_payment,"I have a card payment that was declined, but why?"
+я вообще застрял хз почему но оплата картой не проходит,declined_card_payment,I'm really stuck. I don't know why but my card payment has not gone through.
+"В магазине почему-то отклонили карту, можете проверить в чем дело?",declined_card_payment,"My card was rejected at the store for some reason, can you look into this for me?"
+"Платеж отклонен, я думал вы уже решили эту проблему!",declined_card_payment,"My payment has been declined, I thought this issue was fixed!"
+"Последний платеж отклонили, мне же сказали что все снова работает. Что случилось?",declined_card_payment,"My latest payment was declined, I was told everything was back to working order. What happened?"
+"Пытаюсь расплатиться картой, а платеж постоянно отклоняется, почему?",declined_card_payment,"I tried using my card and it kept getting declined, Why?"
+объясните пожалуйста почему мою карту отклонили,declined_card_payment,Please explain why my card was declined?
+Почему вы отклоняете платежи? Уже несколько раз попробовал этой картой и ничего не работает,declined_card_payment,Why do you keep declining my payment? I tried several times already with this card and it's just not working
+Почему платеж не прошел?,declined_card_payment,Why did it decline my payment?
+Почему банкомат не выдал мне наличные?,declined_cash_withdrawal,Why did the ATM machine fail to give me a cash withdrawal?
+хотел снять наличку а мне отказ пришел,declined_cash_withdrawal,I was declined when I tried to get cash.
+"Снятие наличных отклонено, не понимаю почему так произошло?",declined_cash_withdrawal,The withdrawal was declined I am unsure as to why this happened?
+Почему не получилось снять наличные?,declined_cash_withdrawal,Why could I not get cash?
+почему операция в банкомате отменилась?,declined_cash_withdrawal,Why was my ATM transaction cancelled?
+"Пытался снять деньги в банкомате, операцию отклонили. В чем причина?",declined_cash_withdrawal,I tried to make a cash withdrawal and it was declined. Why did this happen?
+"Есть какая-то причина, почему банкомат отклонил операцию?",declined_cash_withdrawal,Is there a reason that the ATM declined my transaction?
+почему я не смог снять наличные в банкомате?,declined_cash_withdrawal,why couldn't I get cash in the ATM?
+банкомат не выдал деньги,declined_cash_withdrawal,atm would not give me cash
+Стою у банкомата пытался снять деньги и пришел отказ,declined_cash_withdrawal,I was at the ATM trying to made a withdraw and I was declined.
+"Пытаюсь оплатить картой покупку, но постоянно отказ приходит.",declined_transfer,When I try and to buy something using my card it keeps getting declined.
+почему перевод не прошел?,declined_transfer,Why was I unable to do a transfer?
+"Почему вы отклоняете мои операции? До этого все нормально работало, а сейчас пытаюсь оплатить покупку и отказ. Уже пару раз попробовал, все то же самое.",declined_transfer,"You keep declining my transfers? It's always been working really well so far, but when I tried to buy something just now the card got declined. I tried couple times already but same thing."
+"пытался перевести деньги, но перевод отклонили",declined_transfer,"I tired to move my money, but my transfer was declined."
+Из-за чего вообще может вылезать ошибка об отказе в переводе?,declined_transfer,What would make a decline message show up during a transfer?
+Почему у меня перевод отклонен?,declined_transfer,Why did I get a transfer declined?
+Есть какие-то ограничения по карте? Перевод отклоняется,declined_transfer,Are there any restrictions causing my transfer to be declined?
+"хотелось бы узнать, почему мой перевод отклонили",declined_transfer,I would like to know why my transfer was declined.
+"Кажется перевод не прошел, а почему?",declined_transfer,"I think my transfer was declined, but why?"
+"Что делать с картой, уже два раза отказ пришел?",declined_transfer,"How can I fix my card, it got declined twice."
+"Пару недель назад списались деньги в пользу какого-то магазина, не помню такого. Вроде ничего не покупал, можно как-то пробить, кто это, чтобы проверить?",direct_debit_payment_not_recognised,"A couple weeks ago some money was deducted from my account by some seller that I don't remember. I'm pretty sure I didn't do that, but is it possible to trace back who that is just to make sure?"
+непонятное пополнение счета,direct_debit_payment_not_recognised,Unknown direct deposit
+"Тут какое-то автосписание, я его не знаю.",direct_debit_payment_not_recognised,There is a Direct Debit that I don't recognize.
+"В выписке по карте висит списание, я этого точно не покупал.",direct_debit_payment_not_recognised,I don't think I made this charge on my debit statement.
+что это за списание у меня?,direct_debit_payment_not_recognised,what is this charge on my account
+"Понимаю, что поздно, но хочу оспорить операцию. Смотрел выписку за последние пару месяцев и нашел крупное списание, я его не делал. Еще можно с этим что-то сделать?",direct_debit_payment_not_recognised,"Even though it's late, I wanted to see about disputing a charge. I was just looking through my transactions over the past couple of months and noticed a pretty large amount that was not completed by me. Is this possibly something I can still do."
+"С меня списали деньги, хотя не должны были.",direct_debit_payment_not_recognised,I was charged on my account that shouldn't be there.
+"У меня тут автоплатеж списался, я его не настраивал.",direct_debit_payment_not_recognised,I have a direct debit charge that I do not recognize
+"Почему у меня со счета списал деньги какой-то магазин, если я ничего не подтверждал?",direct_debit_payment_not_recognised,Why was my account deducted from a seller when I didn't approve of it?
+у меня украли деньги,direct_debit_payment_not_recognised,someone stole my money
+мне нужно несколько одноразовых карт в день,disposable_card_limits,I have to have several disposable cards per day.
+какой лимит на количество операций по одноразовой карте?,disposable_card_limits,What is the limit to number of transactions I can do with a disposable card?
+Сколько максимум операций можно провести по одной карте?,disposable_card_limits,What is the maximum number of transactions I can make with one card?
+подскажите по лимитам на виртуалки,disposable_card_limits,Can you explain the virtual cards limit?
+Можно выпустить больше одной одноразовой карты?,disposable_card_limits,Can I have more than one disposable card?
+а если мне нужно сразу несколько одноразовых карт?,disposable_card_limits,What if I need multiple disposable cards?
+Какие ограничения на использование одноразовых виртуальных карт?,disposable_card_limits,What are the limits to using disposable virtual cards?
+сколько одноразовых виртуалок можно открыть?,disposable_card_limits,How many disposable virtual cards can I have?
+Сколько раз можно расплатиться одной одноразовой виртуалкой?,disposable_card_limits,How many times can I use the disposable virtual card I have?
+какой максимум по одноразовым картам?,disposable_card_limits,What's the most disposable cards I can have?
+как изменить свои данные?,edit_personal_details,How can I modify my details?
+Мне нужно обновить персональные данные,edit_personal_details,I need to update my personal details
+я переехал надо поменять личные данные в приложении,edit_personal_details,I relocated and need to change my personal details.
+Как обновить адрес проживания?,edit_personal_details,How do I update my current residence details?
+вышла замуж надо сменить имя в аккаунте,edit_personal_details,"got married, need to change account name"
+Как мне поменять свои данные?,edit_personal_details,How do I change my information?
+Как отредактировать личную информацию?,edit_personal_details,How can I edit my personal details?
+как фамилию поменять?,edit_personal_details,how do i change name?
+"Что нужно сделать, чтобы изменить адрес в профиле?",edit_personal_details,What do I need to do to change the address on my account?
+"вышла замуж, нужно сменить фамилию",edit_personal_details,got married and need to change name
+"если я хочу валюту поменять, будут какие-то скрытые платежи?",exchange_charge,"If I want to exchange currency, will there be extras?"
+"Сколько стоит конвертация валют и можно ли глянуть, есть ли у меня какие-то скидки?",exchange_charge,"How much is a cross currency exchange, and can I check to see if I have any discounts available?"
+будет ли комиссия за обмен валюты?,exchange_charge,Will I be charged a fee for exchanging foreign currencies?
+Есть какие-то скрытые комиссии за обмен валюты?,exchange_charge,Are there any extra hidden fees for exchanging currencies?
+какая минимальная сумма для кросс-курса?,exchange_charge,What is the base amount for cross-currency exchanges?
+За обмен валюты надо платить комиссию?,exchange_charge,Do I have to pay for exchanging currencies?
+Обмен валюты вообще платный?,exchange_charge,Does it cost anything for exchanges?
+В поездке сколько будет стоить поменять рубли на местную валюту?,exchange_charge,"When I travel, what will it cost to switch for my currency?"
+обмен валюты платный или нет,exchange_charge,does it cost to exchange currencies?
+Сколько сверху придется переплатить при обмене валюты?,exchange_charge,How much more do I have to pay to exchange currencies?
+Откуда вы берете свои курсы валют?,exchange_rate,Where do you get your exchange rates from?
+можете подсказать откуда у вас берутся курсы валют?,exchange_rate,Can you tell me where you get your exchange rates?
+У вас есть список актуальных курсов валют?,exchange_rate,Do you have a list of exchange rates?
+какой щас курс обмена?,exchange_rate,The exchange rate would be?
+Как мне узнать курс валют?,exchange_rate,How do I find the exchange rate?
+"Можете объяснить, как у вас устроен расчет курса валют?",exchange_rate,Can you explain your exchange rate policy to me?
+какой у меня курс обмена валюты?,exchange_rate,What is my foreign exchange rate?
+Какой сейчас курс валюты?,exchange_rate,What is the exchange rate like?
+Какой курс обмена действует конкретно для меня?,exchange_rate,What is the current exchange rate for me?
+как часто меняются курсы валют,exchange_rate,How often do your exchange rates change
+"мне нужны австралийские доллары вместо рублей, как поменять?",exchange_via_app,"I need AUD not GBP, how do I change it?"
+как пользоваться своими деньгами в другой стране?,exchange_via_app,How would I use my money in a different country?
+Как мне рубли поменять на австралийские доллары?,exchange_via_app,How do I exchange my GBP to AUD?
+можно ли тут валюту обменять?,exchange_via_app,Can am I able to exchange currencies?
+в этом приложении можно валюту менять?,exchange_via_app,Will this app exchange currencies?
+если я хочу рубли в австралийские доллары перевести как это сделать?,exchange_via_app,If I wanted to make a change from GBP to AUD what is the process?
+Можно через это приложение доллары на евро поменять?,exchange_via_app,Can I use this app to change dollars into euros?
+Где тут валюту можно обменять?,exchange_via_app,Where do I go to change GBP?
+я бы хотел обменять валюту,exchange_via_app,I would like to exchange currencies
+как вообще валюту менять?,exchange_via_app,How are currencies exchanged?
+из за чего у меня лишняя комиссия в выписке?,extra_charge_on_statement,What would be the reason there's an extra fee on my statement?
+подскажите что за лишнее списание на 100 рублей в выписке?,extra_charge_on_statement,I need information about an extra €1 fee in my statement.
+тут лишнее списание на 1 доллар висит,extra_charge_on_statement,There is an extra $1 charge
+В приложении какая-то лишняя комиссия о которой меня вообще не предупреждали!,extra_charge_on_statement,There is an extra charge on my app that I was not told about or I was aware of!
+"В выписке какая-то комиссия, я ее не узнаю.",extra_charge_on_statement,There is a fee I don't recognize on my statement.
+когда мне вернут этот 1 доллар?,extra_charge_on_statement,When will the $1 transaction be credited to me?
+за что списали 100 рублей?,extra_charge_on_statement,What is the €1 fee for?
+"вижу лишнюю комиссию в выписке, за что она?",extra_charge_on_statement,I am seeing an extra fee on my statement what is that for?
+Проверьте пожалуйста откуда эта лишняя комиссия у меня в выписке.,extra_charge_on_statement,Can you please check why I am having this extra fee on my statement.
+можете объяснить что это за непонятное списание на 1 доллар?,extra_charge_on_statement,Can you explain what this random $1 charge is?
+почему перевод не проходит?,failed_transfer,Why would a transfer fail?
+У меня перевод не отправляется,failed_transfer,My transfer will not go through.
+почему перевод до сих пор не ушел,failed_transfer,Why hasn't my transfer been made?
+"Здравствуйте, я покупаю квартиру и пытаюсь перевести деньги по ипотеке. Но каждый раз просто вылезает ошибка. Помогите пожалуйста провести этот перевод, спасибо!",failed_transfer,"Hi, I'm buying a flat and I'm trying to get my mortgage to go though. Every time I check I simply get an error message. Is there any way you can help me get this money transferred over. Thanks!"
+скажите почему мой перевод отклонили!,failed_transfer,Tell me why my transfer failed!
+"я перевел деньги, почему они не дошли?",failed_transfer,"I transferred my funds, why did it not go through?"
+"Пытаюсь сделать обычный перевод, попробовал уже раз пять. В чем проблема вообще? У вас сбой какой то?",failed_transfer,I've attempted to do a very standard transfer and have tried 5 times at this point. Can you tell me what the issue is? Is the system down?
+Не прошел перевод.,failed_transfer,My attempted transfer failed.
+пытался перевести деньги ничего не вышло,failed_transfer,I tried to transfer money and it did not work.
+почему я не могу сделать перевод?,failed_transfer,Why was I not able to complete a transfer?
+А можно у вас хранить деньги в другой валюте?,fiat_currency_support,Can I hold money in other currencies?
+какие обычные валюты поддерживаются для хранения и обмена?,fiat_currency_support,What fiat currencies are supported for holding and exchange?
+как поменять рубли на евро?,fiat_currency_support,How do I change currencies to euros?
+какие валюты у вас вообще есть?,fiat_currency_support,Which fiat currencies do you support?
+в каких валютах можно открыть счета?,fiat_currency_support,What currencies can I hold money in?
+Можно поменять на евро?,fiat_currency_support,Can I exchange to EUR?
+какую валюту можно хранить на счете и менять?,fiat_currency_support,What kind of fiat currency can I used for holding and exchange?
+Валюту каких стран вы поддерживаете?,fiat_currency_support,Which country's currency do you support?
+в какие страны я могу поехать чтобы там работала местная валюта с карты?,fiat_currency_support,What countries can I travel to and have access to their currencies?
+"Мне должны перевести деньги на счет, но он заблокирован. Платеж вообще дойдет?",fiat_currency_support,"There is an incoming payment into my account, but it is deactivated. Will they still be processed?"
+можно выпустить одноразовую виртуальную карту?,get_disposable_virtual_card,Can i get a single use virtual card
+"объясните, что такое одноразовые карты?",get_disposable_virtual_card,Can you explain disposable cards?
+хочу сделать одноразовую виртуалку,get_disposable_virtual_card,I want to get a disposable virtual card.
+а можно еще и одноразовую виртуальную карту выпустить?,get_disposable_virtual_card,Is it possible to also get a disposable virtual card?
+как работают виртуальные карты,get_disposable_virtual_card,how do VR cards work
+"только что оформил одноразовую виртуальную карту, ей уже можно платить в интернете?",get_disposable_virtual_card,I just purchased a disposable virtual card. Am I able to use it for online purchases immediately?
+сколько покупок можно оплатить одноразовой картой,get_disposable_virtual_card,how many transactions can i make with a disposable card
+Как получить одноразовую виртуальную карту?,get_disposable_virtual_card,How do I obtain a disposable virtual card?
+как выпустить одноразовую виртуалку?,get_disposable_virtual_card,what's the process for getting a disposable virtual card?
+мне нужна временная виртуальная карта,get_disposable_virtual_card,I would like a temporary virtual card
+как установить пин код,get_physical_card,what is the process for setting up a pin
+насчет пин-кода карты?,get_physical_card,About this card PIN?
+А что насчет пин-кода к карте?,get_physical_card,And what about the Card's PIN?
+мне так и не пришел пин код,get_physical_card,I still don't have my pin.
+Не могу найти свой пин-код. Где он?,get_physical_card,I cannot seem to find my PIN. Where is it?
+мне нужен пин?,get_physical_card,do i need a pin
+Где пин код от карты?,get_physical_card,Where is the card PIN?
+Ну и что там с пин-кодом?,get_physical_card,So what about the card PIN?
+где пользователю найти пин код,get_physical_card,where can user find pin?
+Как мне узнать пин-код от карты?,get_physical_card,How do I find my card PIN?
+можно мне еще одну карту?,getting_spare_card,May I have another card?
+Могу я выпустить вторую карту?,getting_spare_card,Can I have a second card?
+как оформить еще одну карту что для этого нужно,getting_spare_card,What is the procedure for getting another card?
+Можно докупить еще пластиковых карт?,getting_spare_card,Can I purchase extra non-virtual cards?
+За выпуск доп карт есть комиссия?,getting_spare_card,Is there a fee for extra cards?
+могу я выпустить доп карту на другого человека,getting_spare_card,Can I get a spare card for someone else to use?
+"Дочке нужна карта. Могу я дать ей свою, привязанную к моему счету?",getting_spare_card,My daughter needs a card. Can I give her one of mine that's linked to my account?
+Разрешено ли дать дочке одну из моих карт для пользования?,getting_spare_card,Am I allowed to give my daughter one of my cards to use?
+дочке нужна карта как ее добавить?,getting_spare_card,"my daughter needs a card, how do i add her?"
+Я бы хотел получить еще несколько пластиковых карт.,getting_spare_card,I would like to receive a few more physical cards.
+где заказать виртуалку?,getting_virtual_card,Where can I order a virtual card?
+"Как выпустить виртуальную карту, какие шаги?",getting_virtual_card,What are the steps to getting a virtual card?
+Виртуальную карту тут заказывать?,getting_virtual_card,Is this where I order a virtual card?
+Где найти виртуальную карту?,getting_virtual_card,Where do I find the virtual card?
+если мне не нужен пластик можно чисто виртуалку сделать,getting_virtual_card,If I don't want a physical card can i get a virtual version?
+Как заказать виртуальные карты?,getting_virtual_card,How can I order virtual cards?
+Где можно открыть виртуальную карту?,getting_virtual_card,Where can I get a virtual card?
+почему у меня нет виртуальной карты,getting_virtual_card,why do i not have a virtual card
+Можно мне оформить виртуальную карту?,getting_virtual_card,Can I have one of the virtual cards?
+"Подскажите, как выпустить виртуальную карту?",getting_virtual_card,Can you tell me how to order a virtual card?
+"помогите, потерял карту",lost_or_stolen_card,I need help with a lost card
+заблокируйте карту ее украли,lost_or_stolen_card,Can you freeze my card it was stolen
+"Что делать, если украли карту?",lost_or_stolen_card,How do I deal with a stolen card?
+"Куда-то подевалась карта, что мне теперь делать?",lost_or_stolen_card,Somehow I am missing my card.  What should I do?
+Я потерял карту! Что делать?,lost_or_stolen_card,My card is lost! What can I do?
+карты нет походу украли,lost_or_stolen_card,My card is gone I think it was stolen
+"А вы можете как-то отследить, где моя карта?",lost_or_stolen_card,Are you able to locate my card?
+У меня отобрали карту,lost_or_stolen_card,My card was taken from me
+Помогите пожалуйста!! У меня украли карту!,lost_or_stolen_card,Help me please!  My card was stolen!
+"О боже, я потерял карту! Помогите!",lost_or_stolen_card,Oh no!  I lost my card!  Help!
+"потерял телефон, смогу в лк зайти?",lost_or_stolen_phone,"lost phone, can i still access account?"
+"Телефона сейчас нет с собой, так что в приложение зайти не смогу.",lost_or_stolen_phone,My phone is not with me at the moment so I will not be able to access the app.
+я посеял телефон,lost_or_stolen_phone,my phone is gone
+"Смогу зайти в приложение, если поменял телефон?",lost_or_stolen_phone,Can I still use the app if I switched phones?
+"меня ограбили и все забрали, как теперь войти в приложение и к счету получить доступ?",lost_or_stolen_phone,"If I was mugged and lost everything, how do I access my account and app?"
+"Украли телефон, доступа к приложению больше нет.",lost_or_stolen_phone,My phone was stolen so I no longer have access to the app.
+"Как пользоваться приложением, если телефона нет под рукой?",lost_or_stolen_phone,How do I use the app if I don't have my phone with me?
+Вчера напали на улице и всё отобрали. В приложение зайти не могу. Что мне делать дальше?,lost_or_stolen_phone,I was mugged yesterday and they took everything.  I can't access my app.  What are my next steps?
+"Вчера украли все вещи, ни в какие приложения зайти не могу, нужна ваша помощь.",lost_or_stolen_phone,"My things were stolen yesterday and I can't use any apps or anything, so I am going to need some help."
+телефон то ли потерял то ли украли не могу найти,lost_or_stolen_phone,I've lost track of my phone or someone stole it.
+а пластиковую карту тоже можно получить?,order_physical_card,Is a non-electronic card available as well
+куда доставляете карты?,order_physical_card,Where are cards delivered to?
+куда вы можете доставить карту?,order_physical_card,Where can you deliver cards?
+куда мне могут доставить карту?,order_physical_card,Where can my card be delivered?
+цена пластика,order_physical_card,price of physical card
+за пластиковую карту берете деньги?,order_physical_card,"For physical cards, do you charge?"
+сколько стоит выпуск физической карты?,order_physical_card,What are the fees for a physical card?
+сколько спишут за пластиковую карту?,order_physical_card,What will I be charged for a physical card?
+можно мне нормальную пластиковую карту?,order_physical_card,Can I get a real card?
+отправьте мне карту пластик,order_physical_card,Send me a physical card
+забыл код для входа в приложение,passcode_forgotten,I have forgotten my passcode to access my app
+"мне надо сбросить пароль от приложения, как это сделать?",passcode_forgotten,I need to reset my passcode. How do I do it?
+можно мне повторно выслать код доступа?,passcode_forgotten,Can I resent my passcode?
+забыл пароль чтобы войти в приложени,passcode_forgotten,I forgot my code to get into the app.
+я потерял пароль,passcode_forgotten,I lost my password
+не помню свой код для входа в приложение,passcode_forgotten,I don't remember my code to get into the app.
+у меня нет кода доступа к приложению,passcode_forgotten,I don't have my access code for the app.
+я забыл пароль,passcode_forgotten,I have forgotten my password.
+какой код нужен для входа в приложение?,passcode_forgotten,What is the code I need to get into the app?
+что то не так с моим паролем,passcode_forgotten,Something is wrong with my password.
+Оплата картой висит в обработке.,pending_card_payment,My card payment is pending.
+Что значит платеж в обработке?,pending_card_payment,What is a pending payment?
+Сколько покупка будет висеть в статусе ожидания?,pending_card_payment,How long does an item I bought show as pending?
+"С меня списали дважды, и второе списание висит как «в обработке». Когда вернутся деньги после отмены второго списания?",pending_card_payment,"I was double charged, and the second charge is showing as ""pending"". How long will it be before I get my money back once the second charge has been refunded?"
+почему платеж по карте висит в обработке,pending_card_payment,Why is my card payment showing as pending?
+Платеж по карте отображается как ожидающий.,pending_card_payment,My card payment is showing pending.
+"Оплатил картой, а платеж все еще висит в обработке. Кажется, какой-то сбой, проверьте плз и скажите, когда он пройдет.",pending_card_payment,I have paid by my card but payment is still its coming as pending. I think there is some issue please check and let me know when the status will complete.
+"Прошло уже 15 дней, а платеж все еще не прошел.",pending_card_payment,"I have waited 15 days, but my payment still hasn't cleared."
+У меня висит в обработке утренняя покупка,pending_card_payment,I have a pending payment from stuff I bought this morning.
+"Подскажите статус платежа по карте, он уже давно висит в обработке.",pending_card_payment,Please help me to know the status of my card payment as its pending since a while.
+"Привет, банкомат у театра в центре отклонил операцию. Но в приложении написано, что она в обработке. Денег я не получил, что это значит?",pending_cash_withdrawal,"Hey, my card was declined at an ATM in the city centre theatre. My account says the transaction is pending, though. I didn't get the money, though, so what does that mean?"
+через сколько пройдет вывод денег?,pending_cash_withdrawal,how long til my cash out goes through?
+Снятие наличных уже обработано или еще висит?,pending_cash_withdrawal,Is my pending cash withdrawal processed?
+Снятие наличных все еще висит в обработке.,pending_cash_withdrawal,My cash withdrawal is still showing as pending.
+Сколько по времени снятие наличных может висеть в обработке?,pending_cash_withdrawal,How long does the cash withdrawal take to pend?
+снятие наличных в банкомате все еще ожидает подтверждения,pending_cash_withdrawal,My cash in the ATM is still pending
+скока времени занимает подтверждение снятия в банкомате,pending_cash_withdrawal,how long does it take to post atm with drawl
+"Почему я не могу снять деньги с карты, хотя в выписке написано, что операция в обработке?",pending_cash_withdrawal,Why am I unable to take money from my card but the statement says the transaction is still pending?
+"Что такое операция в обработке? Банкомат отклонил карту, но в приложении она висит как ожидающая. Можно ее отменить?",pending_cash_withdrawal,"What's a pending transaction? My card was declined at an ATM, but my account says it's still pending. Can I cancel the payment?"
+"Пытался снять деньги в банкомате, он ничего не выдал, но операция висит в обработке! Как такое вообще возможно?",pending_cash_withdrawal,"I tried taking money from the ATM but no money came out, but the transaction is still pending? How is this possible?"
+"пополнял с карты уже прилично времени прошло, а платеж все висит в обработке, он же уже должен был пройти?",pending_top_up,"I topped up by card a while ago and it's still pending, surely it should be done by now?"
+почему пополнение еще не прошло,pending_top_up,why hasn't my top up gone through yet
+"Что вообще с пополнением происходит? Пишет только в обработке, в обработке и в обработке! Пользуюсь вашим банком постоянно по несколько раз в неделю и никогда такого не было! В чем дело?",pending_top_up,"What's going on with the top-up? All it says is pending, pending, pending! I use your service several times a week and have never had a problem before! What's going on here?"
+"Кошмар! Пытаюсь закинуть на карту деньги, а пополнение не проходит! Мне срочно нужны деньги либо на карте, либо на счете, где они вообще?",pending_top_up,"OMG!  I'm trying to load my card and it wont top up!  I desperately need the money either on my card or in my bank, where is it?"
+подскажите почему пополнение не прошло,pending_top_up,Is there a reason my top up hasn't gone through
+Пополнение висит в обработке.,pending_top_up,My top up is pending.
+Когда уже пополнение пройдет?,pending_top_up,When will my top-up process?
+пытаюсь пополнить счет но платеж уже час висит в обработке,pending_top_up,I'm attempting to top-up my account but it has been pending for an hour.
+"Я пытался пополнить счет, но деньги похоже зависли в обработке. Мне прямо сейчас нужно покупку оплатить, что делать?",pending_top_up,"I tried topping up but my funds seem to be pending. I want to buy something right now, what do I do?"
+"Можете объяснить, почему пополнение еще не зачислилось?",pending_top_up,Could you explain why my top-up has gone through yet?
+когда перевод дойдет?,pending_transfer,When will the transfer go through?
+Сколько вообще перевод может висеть в обработке?,pending_transfer,How long does a transfer stay pending?
+я вчера перевел деньги а они до сих пор не доступны,pending_transfer,"I transferred money yesterday, but it still isn't available?"
+"Подскажите, почему платеж все еще обрабатывается? Можете помочь?",pending_transfer,"I would like to know why my payment is still pending, can you help?"
+"Жду, пока обработается перевод, который завис.",pending_transfer,I am waiting for a pending money transfer to process.
+У меня перевод до сих пор висит как в обработке.,pending_transfer,My transfer is still coming up as pending.
+перевод еще не прошел,pending_transfer,My transfer hasn't gone through yet.
+"Мне перевели деньги, а они не отображаются",pending_transfer,Someone transferred money to me and it doesn't show
+Через сколько обычно отображается перевод денег?,pending_transfer,How long does it take for a money transfer to show?
+"у меня перевод завис в обработке, подскажите сколько еще ждать?",pending_transfer,I have a transfer that's pending and wanted to know how long it is going to take to process?
+у меня закончились все попытки ввода пин кода,pin_blocked,I'v exhausted all the of times I can try my PIN
+Что делать если пин-код заблокировался?,pin_blocked,How do I deal with a blocked PIN?
+Можете разблокировать пин? Кажется я слишком много раз ввел неправильный.,pin_blocked,Can you unlock my pin? I think I entered the wrong pin too many times.
+Ввел неправильный пин несколько раз и теперь все заблокировано. Помогите разблокать!,pin_blocked,I entered the wrong pin too many times and now I am blocked.  Help me unblock!
+"Как разблокировать пин, если ввел его неправильно кучу раз?",pin_blocked,How do I unblock my pin after entering it wrong too many times?
+я превысил количество попыток ввода пинкода,pin_blocked,I have exceeded the number of times I can try my PIN
+"У меня пин заблокирован, поможете разблокировать?",pin_blocked,"Since my pin is blocked, would you help me unblock it?"
+"кажется пин заблочен, разблокируйте пожалуйста",pin_blocked,"My pins seems to be blocked, can you unblock it please"
+Где можно разблокировать пин-код?,pin_blocked,"
+Where can I get my PIN unblocked?"
+"мне нужна помощь, по пьяни карту заблокировал кажется",pin_blocked,I need help because I drunken blocked my card?
+Как друг может перевести мне деньги?,receiving_money,How can my friend send me money?
+Какими способами мне могут перевести деньги?,receiving_money,What are the ways for others to transfer me money?
+как получать зп на этот счет?,receiving_money,How do i get my salary in the account?
+Как перечислять зарплату на этот счет?,receiving_money,How do I deposit my paycheck to this account?
+как мне могут перевести деньги?,receiving_money,How can someone send me money?
+Вы работаете с фунтами стерлингов?,receiving_money,Is GBP a supported currency?
+"У меня зарплата в фунтах, как это указать в приложении?",receiving_money,My salary is in GBP; how can I note this in the app?
+Можно на этот счет зарплату получать?,receiving_money,Can I use this account to receive my salary?
+Сюда можно зарплату переводить?,receiving_money,Can I get my paycheck through here?
+мне нужно фунты выбрать чтобы зарплата нормально пришла?,receiving_money,Do I need to choose GBP to get my salary deposited properly?
+"Я тут покупку сделал, но хочу вернуть деньги. Как это сделать?",request_refund,I bought something but now I would like a refund. How do I do that?
+что нужно сделать чтобы оформить возврат?,request_refund,What do I need to do to get a refund?
+"Заказал в интернете товар сто лет назад, до сих пор не пришел. С меня хватит! Верните деньги, я не собираюсь им платить.",request_refund,"I ordered something ages ago online but it's simply not arriving. I've got enough! Give me back my money, I'm not paying these people."
+"здравствуйте, я передумал и мне очень нужен возврат за недавнюю покупку. отмените операцию и верните деньги пожалуйста, это срочно",request_refund,Hello I changed my mind and really need a refund on one of things I bought recently. Can you please cancel the transaction and get my money back. Please it's urgent.
+мне нужен возврат,request_refund,I need to do a refund
+"Хочу вернуть деньги, потому что посылка идет слишком долго. Как это сделать?",request_refund,I want a refund because my package has been taking too long to arrive. How do I go about doing that?
+Как оформить возврат за покупку?,request_refund,How can I process a refund for something I purchased?
+хочу вернуть деньги за один из ваших товаров который я купил,request_refund,I would like a refund on one of your products that has been sold to me
+Мне нужно отменить покупку.,request_refund,I need to cancel a purchase I made.
+Я бы хотел вернуть деньги за покупку,request_refund,I would like a refund for something I bought
+кажется мне вернулся платеж по карте,reverted_card_payment?,I think my card payment had been return
+С кредитки отменился платеж за покупку.,reverted_card_payment?,My credit card cancelled a payment for a purchase.
+"Подскажите, почему отменился платеж по карте?",reverted_card_payment?,Do you know why my card payment was reverted?
+"я что-то купил, а деньги вернулись обратно на счет. почему так?",reverted_card_payment?,I bought something and the money appeared back into my account? Why?
+Почему мой платеж отменили?,reverted_card_payment?,Why was my payment cancelled?
+"Карта отклоняет оплату. Раньше покупал, все работало. В чем может быть проблема?",reverted_card_payment?,My card is being declined for a purchase. I bought items before and the card worked. Do you know what the problem is?
+кто-то остановил мой платеж,reverted_card_payment?,Someone stopped my payment
+"В приложении висит, что оплата картой отменена.",reverted_card_payment?,My account shows the card payment cancelled.
+почему платеж вернулся?,reverted_card_payment?,Why has payment been returned?
+Приложение отменило мой платеж,reverted_card_payment?,My payment was reverted by the app
+как мне пополнить счет через american express?,supported_cards_and_currencies,How can I use American Express to add money to my account?
+Какие кредитки вы принимаете?,supported_cards_and_currencies,What credit cards are supported?
+какие карты поддерживаются? хочу пополнить баланс с кредитки,supported_cards_and_currencies,Which cards do you guys support? I want to top up using my credit card.
+Вы любые карты и валюты принимаете?,supported_cards_and_currencies,Do you support all cards and currencies?
+В какой валюте можно пополнять счет?,supported_cards_and_currencies,What currencies are accepted for adding money?
+какие карты и валюты у вас работают,supported_cards_and_currencies,What is accepted in regards to cards and currencies?
+Какие карты и валюты поддерживаются?,supported_cards_and_currencies,What cards and currencies are supported?
+С каких карт (дебетовых или кредитных) можно пополнить баланс?,supported_cards_and_currencies,Which credit or debit cards can I use to top up?
+какие у вас поддерживаются карты и валюты?,supported_cards_and_currencies,Which cards and currencies do you support?
+"У меня есть еще одна кредитка, но она американская. С нее пройдет оплата?",supported_cards_and_currencies,I only own one other credit card from the USA. Will it be accepted?
+как можно прям срочно закрыть счет?,terminate_account,How do I get rid of my account ASAP?
+"Помогите удалить мой аккаунт, пожалуйста.",terminate_account,I need your help in deleting my account.
+"удалите мой акк пжлст, сервис у вас так себе",terminate_account,"please delete my account, your services are not up to par."
+"Закройте, пожалуйста, мой счет. Меня не устраивает качество обслуживания.",terminate_account,Please close my account. I am unsatisfied with your service.
+"Что нужно сделать, чтобы закрыть счет?",terminate_account,What steps do I need to take to close my account?
+Я бы хотел закрыть свой счет.,terminate_account,I would like to close my account.
+"хочу удалить аккаунт, мне не нравится как вы работаете",terminate_account,I want to delete my account. I'm unhappy with the service you're providing.
+"Удалите мой аккаунт, пожалуйста.",terminate_account,Please delete my account.
+ужасный банк! закройте мой счет к чертям,terminate_account,This company sucks! Can you terminate my account?
+"Пожалуйста, удалите мой аккаунт прямо сейчас!",terminate_account,Please delete my account right now!
+"С меня спишут комиссию, если я пополню счет переводом?",top_up_by_bank_transfer_charge,Will topping up by transfer lead to a charge on my account?
+будет ли комиссия если я переведу деньги со своего банка для пополнения,top_up_by_bank_transfer_charge,If I transfer money from my bank to top-up my account will I be charged?
+Берется ли комиссия за входящий перевод через SEPA?,top_up_by_bank_transfer_charge,Are there charges for receiving a SEPA transfer?
+Вы делаете переводы через SWIFT?,top_up_by_bank_transfer_charge,Do you do SWIFT transfers?
+А через свифт можно перевести?,top_up_by_bank_transfer_charge,Can I also transfer with SWIFT?
+вы работаете со swift переводами,top_up_by_bank_transfer_charge,Will you deal with SWIFT transfers?
+С меня возьмут комиссию за входящий перевод?,top_up_by_bank_transfer_charge,Do I get charged if i am getting money?
+Будет ли комиссия за пополнение переводом?,top_up_by_bank_transfer_charge,Should I expect to be charged for topping up by transfer?
+можно сделать перевод через свифт,top_up_by_bank_transfer_charge,can i do a transfer with swift
+Хочу пополнить счет через SWIFT.,top_up_by_bank_transfer_charge,I would like to refill my account using SWIFT.
+"С меня спишут комиссию, если пополнять европейской картой?",top_up_by_card_charge,Will I be charged if I use European bank card for top up?
+Какая комиссия берется при пополнении с карты?,top_up_by_card_charge,What fee is included if I top up by card?
+Сколько стоит пополнить американскую карту?,top_up_by_card_charge,How much can I expect to pay to top up a US card?
+есть ли комиссия за пополнение с зарубежной карты,top_up_by_card_charge,Are there fees for adding money using an international card
+С меня снимут комиссию за пополнение карты?,top_up_by_card_charge,Will I get charged for topping off my card?
+Берется ли комиссия при пополнении картой европейского банка?,top_up_by_card_charge,Are there any fees if I use a European bank card for a top up?
+Есть какие-то дополнительные комиссии за пополнение зарубежной карты?,top_up_by_card_charge,Are there any extra fees for adding money into the international card?
+Сколько стоит пополнить счет с американской карты?,top_up_by_card_charge,"When using a US card, what is the cost for a top up/off?"
+Какая комиссия за пополнение с карт США?,top_up_by_card_charge,What are the top up charges for US cards?
+есть комиссия за пополнение?,top_up_by_card_charge,Are there fees for top ups?
+"Хочу пополнить наличными, где это можно сделать?",top_up_by_cash_or_cheque,"I want to top up using cash, where can I do that?"
+"Мне нужно положить наличку на счет, как это сделать?",top_up_by_cash_or_cheque,"I need to top up cash, How do I do it?"
+А можно карту чеком пополнить?,top_up_by_cash_or_cheque,Can you top-up a card with a cheque?
+какими способами можно пополнить счет?,top_up_by_cash_or_cheque,What methods can I use to top up my account?
+подскажите где можно закинуть наличные на счет?,top_up_by_cash_or_cheque,Can you help me find top up by cash deposit?
+Можно ли пополнить баланс банковским чеком?,top_up_by_cash_or_cheque,Can I add to my account balance with a cheque?
+Как мне пополнить карту?,top_up_by_cash_or_cheque,How can I top-up my card?
+Наличными можно пополнить?,top_up_by_cash_or_cheque,Is cash good to top up with?
+вы принимаете чеки,top_up_by_cash_or_cheque,Do you accept checks?
+Надо внести чек на счет,top_up_by_cash_or_cheque,Need to deposit a cheque into my account
+"Я пополнил, но приложение не приняло платеж.",top_up_failed,I topped up but the app did not accept it.
+Почему пополнение не прошло?,top_up_failed,Why was my top-up unsuccessful?
+почему пополнение не сработало?,top_up_failed,Why did my top up not work?
+"Пополнение не прошло, ПОЧЕМУ?",top_up_failed,"My top-up failed, WHY?"
+Почему приложение отклонило пополнение?,top_up_failed,Why did the app deny my top up?
+не получилось пополнить,top_up_failed,My top up failed.
+"Похоже, пополнение не прошло. Как это исправить?",top_up_failed,I'm pretty sure my top up failed. How do I fix this?
+"Пытался пополнить баланс, почему отказ?",top_up_failed,I tried to top up. Why was it denied?
+Можете сказать почему пополнение не прошло?,top_up_failed,Can you tell me why my top up didn't work?
+У меня не работает пополнение.,top_up_failed,My top-up isn't working.
+я могу пополнять карту на любую сумму?,top_up_limits,Can I top-up as much as I want?
+"подскажите, есть ли лимиты на пополнение?",top_up_limits,Tell me if there are any top-up limits?
+какой лимит на пополнение карты?,top_up_limits,What is the limit to a top-up?
+у вас есть лимит на пополнение?,top_up_limits,Do you have a top-up limit?
+на какую сумму максимум можно пополнить счет?,top_up_limits,How much money can i top up?
+есть ограничение по сумме пополнения?,top_up_limits,Is there a limit to top-up amounts?
+есть какие-то ограничения на пополнение счёта?,top_up_limits,Do you have any restrictions to my top-up?
+какой лимит на пополнение,top_up_limits,What's the top up limit?
+какие лимиты на пополнение?,top_up_limits,What are the top-up limits?
+пополнения как-то ограничены?,top_up_limits,Are the top-ups limited?
+"хотел пополнить, а денег нет. их обратно отправили?",top_up_reverted,I went to top up and it is no longer there.  Was it sent back?
+кажется мое пополнение отменилось,top_up_reverted,I think my top-up was cancelled.
+приложение отменило пополнение.,top_up_reverted,The application reverted my top-up.
+в приложении отменилось пополнение счета,top_up_reverted,The app reverted my top off.
+"здравствуйте не понимаю что произошло, случайно пополнил два раза, помогите вернуть деньги пожалуйста",top_up_reverted,"Hi, i don't know what's going on i've just paid for my top up twice by accident can you help me get a refund please."
+"деньги зачислились, но потом приложение все отменило",top_up_reverted,I got topped up but the application reverted it.
+мое пополнение отменили.,top_up_reverted,My top-up has been cancelled.
+приложение сбросило операцию когда я пополнял баланс,top_up_reverted,The app reverted my action when I topped up.
+подскажите почему отменилось пополнение?,top_up_reverted,I'd like to know why my top-up was canceled please.
+приложение не дает пополнить счет,top_up_reverted,The app wouldn't accept my top up.
+друг сможет пополнить мой счет?,topping_up_by_card,Will my friend be able to top off my account?
+"можно дать друзьям доступ к счету, чтобы они могли его пополнять?",topping_up_by_card,Can I give my friends access to my account so they can top it up for me?
+как перевести деньги с кредитки?,topping_up_by_card,How do I transfer money using a credit card?
+как мне могут перевести деньги на счет?,topping_up_by_card,How can someone add money to my account?
+как пополнить карту через приложение? я просто первый раз,topping_up_by_card,How do I top up my card using your app? I'm new to this.
+как пополнить счет,topping_up_by_card,how can i top up?
+почему пополнение не отображается в кошельке?,topping_up_by_card,Why don't I see my top up in my wallet?
+не вижу пополнение карты,topping_up_by_card,Cannot access my top up.
+друзья смогут закинуть мне деньги на счет?,topping_up_by_card,Are my friends able to top up my account?
+можно пополнить через машину?,topping_up_by_card,Can I top up using my car?
+"у меня сработал дубликат карты и деньги списались дважды, как это исправить?",transaction_charged_twice,I had a duplicate card and got charged twice. How do I resolve this?
+почему одна и та же операция отображается несколько раз?,transaction_charged_twice,Why is there a transaction that shows multiple times?
+"кажется, произошел сбой и списание отобразилось дважды",transaction_charged_twice,I think something may have happened that caused a charge to show up twice.
+с меня списали деньги несколько раз за одну и ту же покупку,transaction_charged_twice,I've been charged more than once for the same transaction
+я это два раза не покупал,transaction_charged_twice,I didn't buy this twice
+"похоже, что за некоторые покупки на прошлой неделе с меня списали дважды. проверьте, пожалуйста, и исправьте",transaction_charged_twice,It appears that I am being double charged for some items that I have purchased this past week.  Please review and correct.
+у меня висит двойное списание,transaction_charged_twice,I have a duplicate payment showing
+с карты дважды списали за одну покупку,transaction_charged_twice,My card has been charged two separate times for a single transaction.
+что делать если кажется что за одну покупку списали два раза?,transaction_charged_twice,What are my remedies if I think I was charged twice for the same expense?
+почему по карте несколько списаний я платил только один раз а не два как это исправить?,transaction_charged_twice,Why is there more then one charge on my card I only paid for one not twice how can I fix this?
+"Не пойму, почему с меня списали лишнюю комиссию за перевод.",transfer_fee_charged,I'm not sure why I was charged an extra fee for transferring funds.
+Почему при переводе сняли дополнительную комиссию?,transfer_fee_charged,Why were there additional charges when transferring?
+"Почему с меня списали комиссию за онлайн-покупку? Хоть сайт и зарубежный, я думал, всё входит в стоимость.",transfer_fee_charged,"Why did I get charged for something I bought online? Even though it was international, I thought it would be covered."
+"Объясните, что происходит. Я перевел деньги, а получатель говорит, что пришло меньше, чем я отправлял. Мне теперь придется делать еще один перевод, чтобы докинуть разницу",transfer_fee_charged,I need someone to alert me as to what's going on. I had transferred an amount but the receiver is saying that the amount is somewhat less than what I sent over. I now have to make another transfer to make up the difference.
+"С меня взяли деньги за то, чтобы сделать перевод.",transfer_fee_charged,I had to pay in order to do a transfer
+у вас есть комиссия за переводы?,transfer_fee_charged,Do charge fees for transfers?
+"Я заказала косметику с китайского сайта и была уверена, что переводы без комиссии. Откуда взялось списание? Меня это вообще не устраивает.",transfer_fee_charged,"I purchased some makeup through a site in China, and I was under the impression that when I make transfers there is no fee.  Why am I seeing this fee now?  I am not happy about this at all."
+"С меня сняли комиссию за перевод, почему?",transfer_fee_charged,"I was charge a fee for my transfer, why?"
+"Можете объяснить, что за комиссия за перевод?",transfer_fee_charged,Can you explain the transfer fee to me?
+почему с меня взяли лишние деньги за перевод,transfer_fee_charged,Why was I charged extra for transferring money?
+Как мне перевести деньги из другого банка?,transfer_into_account,How can I transfer money from an outside bank?
+Хочу пополнить счет банковским переводом. Как это сделать?,transfer_into_account,I want to top my account by using a bank transfer. How would that work?
+Как перевести деньги со своего счета в банке на накопительный?,transfer_into_account,How can I transfer funds from my bank to my top up account?
+как перевести деньги себе на счет,transfer_into_account,How do I transfer money to my account?
+"Я не понимаю, как у вас работают переводы.",transfer_into_account,I don't understand the money transfer process.
+"Если я хочу закинуть деньги себе на счет, как мне это сделать?",transfer_into_account,"When I want to transfer money to my account, how can I do that?"
+Пытаюсь перевести деньги на свой счет.,transfer_into_account,I'm trying to transfer money into my account.
+Как отправить деньги на счет переводом?,transfer_into_account,How do I send my account money through transfer?
+можно пополнить счет межбанковским переводом?,transfer_into_account,Can I use a bank transfer to refill my account?
+"Что нужно сделать, чтобы перевести деньги себе на счет?",transfer_into_account,What do I need to do to transfer money into my account?
+"деньги отправил, а получателю так и не пришли",transfer_not_received_by_recipient,I sent money.  They haven't received it.
+"пару дней назад перевел за аренду новой квартиры, но хозяин говорит денег нет, хотя у меня статус 'успешно'. номер счета перепроверил, все точно правильно. можете проверить, перевод вообще прошел или нет?",transfer_not_received_by_recipient,"I transferred the rent payment for my new place a couple days ago but the landlord says it's not there yet, despite showing up as done on my side. I checked the account number I sent it to and it's definitely correct. Can you please verify if the transaction really went through or not?"
+получатель не видит мой перевод,transfer_not_received_by_recipient,The receipient doesn't see my money transfer.
+Жду когда уже пройдет перевод...,transfer_not_received_by_recipient,Im waiting for my transaction to go through.
+отправил деньги человеку но они до сих пор не дошли,transfer_not_received_by_recipient,I tried to send someone money but they haven't received it.
+перевод не прошел?,transfer_not_received_by_recipient,transaction failed?
+почему человеку до сих пор не пришли деньги?,transfer_not_received_by_recipient,Why hasn't my recipient received their money?
+сделал перевод и он чет оч долго идет,transfer_not_received_by_recipient,I made a transaction and it is taking a very long time to go through.
+"перевел деньги, а получатель теперь не может их снять",transfer_not_received_by_recipient,I transferred some money but the recipient is having trouble withdrawing.
+как получатель может увидеть мой перевод?,transfer_not_received_by_recipient,How can the recipient see my money transaction?
+сколько дней идет перевод из сша?,transfer_timing,How many days does a transfer from the US take?
+сколько мне ждать пока перевод придет на счет?,transfer_timing,How long do i have to wait for a transfer to reach my account?
+когда деньги на счет упадут?,transfer_timing,When does the money get transferred to my account
+примерно за сколько дойдет срочный перевод из Китая?,transfer_timing,Approximately how long will an urgent transfer from China take?
+через сколько дней деньги поступят мне на счет?,transfer_timing,How many days does it take until funds are in my account?
+когда ждать поступления перевода на счет,transfer_timing,When should I expect to see my transfer hit my account?
+"нужно срочно перевести деньги из китая по важному делу, сколько это займет по времени примерно?",transfer_timing,There is an important thing from China that I need to transfer. Approximately how long will this take?
+"отправил банковский перевод из европы, сколько он будет идти?",transfer_timing,"I initiated a Bank transfer form Europe, how long will this take?"
+когда деньги на счете уже будут доступны?,transfer_timing,When will money be available in my account?
+из Европы переводы дольше идут?,transfer_timing,Do transfers from Europe take longer?
+приложение меня не узнает,unable_to_verify_identity,I can not get the app to know it is me.
+Не получается подтвердить личность.,unable_to_verify_identity,I am having trouble proving my identity.
+Приложение не пускает меня в личный кабинет.,unable_to_verify_identity,The app will not let me into my account.
+"Пытаюсь подтвердить личность по паспорту, но ничего не выходит.",unable_to_verify_identity,"I tried verifying my ID, but it won't let me."
+что делать если верификация не прошла,unable_to_verify_identity,what do i do if my verification failed
+Не могу подтвердить свою личность.,unable_to_verify_identity,I can't prove my identity.
+Почему я не могу пройти подтверждение личности?,unable_to_verify_identity,Why can't I verify my identity?
+"Как доказать этой дурацкой системе, что это реально я?!",unable_to_verify_identity,How do I show this stupid system that this is really my identity?
+почему то не получается подтвердить личность,unable_to_verify_identity,for some reason I am having a problem with verifying my identity.
+"Приложение пишет, что не узнает меня.",unable_to_verify_identity,The app doesn't know it's me.
+"Как пройти подтверждение личности, что нужно делать?",verify_my_identity,What are the steps to verify my identity?
+Какие документы нужны для проверки личности?,verify_my_identity,What kind of documents do I need for the identity check?
+"Подскажите, как мне подтвердить личность?",verify_my_identity,I would like to know how I can verify my Identity.
+как вообще проходит проверка документов какие шаги,verify_my_identity,"When getting my ID checked, what are the steps involved?"
+"Что нужно, чтобы подтвердить личность?",verify_my_identity,What is needed to prove my identity?
+Мне нужно подтвердить личность.,verify_my_identity,I need to verify my identity
+Что вообще нужно предоставить для проверки личности?,verify_my_identity,What all am I required to show for the identity check?
+для подтверждения личности что-то нужно?,verify_my_identity,do I need anything for the identity check?
+"Что мне нужно сделать, чтобы подтвердить личность?",verify_my_identity,What do I need to do to verify my identity?
+Как у вас проходит подтверждение личности?,verify_my_identity,How do you verify an identity?
+Откуда поступили эти деньги?,verify_source_of_funds,What is the source of my money?
+Мне нужно подтвердить происхождение средств.,verify_source_of_funds,I need my funds verified.
+Как мне подтвердить происхождение денег? что для этого нужно?,verify_source_of_funds,I need the source of my funds verified. How do I do this?
+Мне нужно подтвердить источник дохода,verify_source_of_funds,I need to validate the source of my funds.
+откуда деньги пришли,verify_source_of_funds,where to funds come from
+"Подскажите, я могу узнать, откуда пришли средства?",verify_source_of_funds,Can I find the origination of my funds?
+"Как узнать, от кого и откуда поступили деньги?",verify_source_of_funds,How do I become aware of where my funds come from?
+Откуда мне упали деньги? Очень нужно узнать.,verify_source_of_funds,Where are my funds coming from? I need to know.
+Что нужно сделать чтобы подтвердить источник денег?,verify_source_of_funds,What do I need to do to verify the source of my funds?
+мне надо подтвердить источник дохода,verify_source_of_funds,I need to verify my source of funds
+Где найти код подтверждения для карты пополнения?,verify_top_up,How do I find the verification code for my top-up card?
+Пополнение обязательно подтверждать?,verify_top_up,Is it necessary to verify my top up?
+Зачем вообще подтверждать пополнение?,verify_top_up,Why does top-up need verifying?
+"Как подтвердить карту, с которой пополняю?",verify_top_up,How is the top-up card verified?
+Подскажите инфу по коду подтверждения пжлста,verify_top_up,Can you give me information about verification code?
+А пополнение счета вообще можно подтвердить?,verify_top_up,Is it possible to verify a top up?
+Помогите найти код подтверждения для карты пополнения.,verify_top_up,I need help finding the verification code for my top-up card.
+Там есть какой-то код подтверждения для карты пополнения?,verify_top_up,Is there a verification code for the top-up card?
+Зачем вообще нужно подтверждать пополнение счета?,verify_top_up,What is the necessity of verifying the top up?
+почему вылезает подтверждение при пополнении,verify_top_up,how come the verification with the top up
+как исправить если виртуальная карта отклоняется?,virtual_card_not_working,How can I fix a problem where my virtual card is rejected?
+не могу совершать операции по виртуалке,virtual_card_not_working,I cannot make transactions with my virtual card.
+почему виртуальная карта не работает?,virtual_card_not_working,Why isn't my virtual card working?
+платежи с виртуалки постоянно отклоняются,virtual_card_not_working,My payments from my virtual card keep getting rejected.
+почему отклонили одноразовую виртуальную карту при оплате абонемента в зал?,virtual_card_not_working,Why did the disposable virtual card which I used to pay a gym subscription get denied?
+почему виртуальную карту отклонили при попытке настроить автоплатеж?,virtual_card_not_working,Why was my virtual card declined when attempting to setup automatic billing?
+"пытался оплатить виртуалкой в магазине и ее отклонили, что делать?",virtual_card_not_working,I was trying to use my virtual card at a merchant and it was rejected. How can I fix this?
+"одноразовая виртуальная карта не срабатывает на кассе, че теперь делать",virtual_card_not_working,My disposable virtual card is not working when I try to use it at a point of sale transaction. What do I do now?
+виртуальная карта не работает у меня,virtual_card_not_working,virtual card is not working for me
+есть какие-то ограничения по одноразовой карте? а то она не работает,virtual_card_not_working,Are there restrictions for my disposable card since it does not seem to be working?
+я могу сам выбрать себе карту?,visa_or_mastercard,Am I able to choose my card?
+можно платить вообще любой картой?,visa_or_mastercard,Am I allowed to use any card to make a payment?
+можно выбрать между визой и мастеркардом?,visa_or_mastercard,May I choose between Visa and Mastercard?
+"здравствуйте, подскажите у вас виза или мастеркард?",visa_or_mastercard,Hello. Can you tell me if you use Visa or Mastercard?
+"принимаются и Visa, и Mastercard?",visa_or_mastercard,Are both Visa and Mastercard accepted?
+у меня есть выбор между визой и мастеркард,visa_or_mastercard,Do I get a choice between Visa and Mastercard?
+"подскажите, виза вообще выпускается у вас?",visa_or_mastercard,Can you let me know if Visa is among the card scheme assignments?
+хотелось бы узнать подробнее про выбор визы или мастеркард,visa_or_mastercard,I'd like more information about choosing a Visa or Mastercard.
+тут можно получить карту visa?,visa_or_mastercard,Is it possible to get a Visa here?
+"у вас есть и виза, и мастеркард?",visa_or_mastercard,Are both Visa and Mastercard offered?
+мне обязательно подтверждать личность чтобы счетом пользоваться?,why_verify_identity,Do I need to verify my identity to use my account?
+А зачем вообще нужна эта проверка личности?,why_verify_identity,What is the point of an identity check?
+мне не нравится что надо столько данных о себе заполнять,why_verify_identity,I don't like that I have to fill out so much information about my identity.
+"раз мои документы еще не проверили, когда я смогу пользоваться счетом?",why_verify_identity,"Since my id hasn't been verified, when can I use my account?"
+можно переводы делать пока личность не подтвердил,why_verify_identity,Can I make transfers before identity verification?
+Зачем вам вообще все мои паспортные данные?,why_verify_identity,Why do you require all my identity details?
+Мне обязательно проходить верификацию?,why_verify_identity,Do I have to verify my identity?
+я не буду подтверждать личность.,why_verify_identity,I won't verify my identity.
+почему мне нужно было подтверждать личность?,why_verify_identity,Why did I need to verfiy my identity?
+проверку личности обязательно проходить?,why_verify_identity,Do I have to do the identity check?
+хотел снять 100 долларов а банкомат выдал только 20,wrong_amount_of_cash_received,I tried to get $100 but I just got $20
+"Почему мне выдало только 2 тысячи, хотя я запрашивал 10?",wrong_amount_of_cash_received,Why did I only get $20 when I tried to get $100
+Банкомат выдал только часть наличных,wrong_amount_of_cash_received,My cash withdrawal was partly declined
+запрашивал 10000 а выдало только 2000.,wrong_amount_of_cash_received,I asked for 100 but only got 20.
+банкомат выдал меньше наличных чем я заказывал,wrong_amount_of_cash_received,I got less cash than the one I specified in the ATM
+"Как вернуть деньги? Банкомат выдал не ту сумму, хотя в приложении списалось сколько запрашивал...",wrong_amount_of_cash_received,"How can I request cash back? The ATM just gave me the wrong amount, the app shows the amount that I've been actually charged though..."
+Мне банкомат выдал неправильную сумму.,wrong_amount_of_cash_received,I didn't get the right amount at the ATM.
+мне выдали не ту сумму на кассе,wrong_amount_of_cash_received,I didn't receive the right amount of cash back
+"Деньги вернутся, если банкомат не выдал часть суммы?",wrong_amount_of_cash_received,Will declined funds I tried to withdraw be returned to me?
+стою у банкомата снимал 3000 рублей а он выдал только 1000 что делать?,wrong_amount_of_cash_received,I'm at an ATM and withdrew 30 pounds and was only given 10. What should I do?
+можно ли снять деньги за границей в банкомате без комиссии?,wrong_exchange_rate_for_cash_withdrawal,Can I make a withdraw if I am out of country from with out any fees at an ATM?
+"похоже с меня списали лишнее в банкомате в отпуске. знал бы заранее про ваши комиссии, пошел бы в другое место",wrong_exchange_rate_for_cash_withdrawal,It seems I was overcharged when I used an ATM while on vacation. If I knew about your fees in advance I sure would have gone somewhere else.
+будет ли комиссия если я сниму рубли в местном банкомате? нужны наличные на дорогу домой,wrong_exchange_rate_for_cash_withdrawal,Will there be additional costs of I make a withdrawal from a local ATM of British pounds? I need some cash to feel comfortable on the journey home
+когда снимал наличку мне посчитали по неправильному курсу,wrong_exchange_rate_for_cash_withdrawal,My cash withdrawal charged me the wrong exchange rate
+курс обмена при снятии наличных неправильный,wrong_exchange_rate_for_cash_withdrawal,Exchange rate for my cash withdrawal is wrong
+почему курс обмена такой конский? сумма должна быть намного больше,wrong_exchange_rate_for_cash_withdrawal,Why is the exchange rate so exorbitant? This should have been a much higher amount of cash for that to apply.
+снимал деньги в банкомате на подарки к праздникам и офигел от комиссии. с чего вдруг? я бы не стал снимать если б знал!,wrong_exchange_rate_for_cash_withdrawal,I used the ATM machine to get money out for Holiday shopping and saw the outrageous charges. Why is that? I would not have used the ATM if I had known!
+на праздниках снимал наличку в банкомате и с меня содрали дикую комиссию. я бы так делать не стал если бы знал про такие списания!,wrong_exchange_rate_for_cash_withdrawal,I withdrew some cash out of the ATM over the holiday. It seems that I was charged some outrageous fees. I would not have done that had I been aware of these outrageous charges!
+"подскажите банкомат где можно снять наличные рубли, денег на дорогу обратно вообще нет, до дома не дотяну. и будет ли комиссия за снятие?",wrong_exchange_rate_for_cash_withdrawal,"Is there a local ATM that will provide British pounds, I have no money for my homeward journey and do not feel comfortable waiting until  I arrive in Britain. Will a withdrawal involve extra charges?"
+почему курс обмена был неправильный когда я нал снимал,wrong_exchange_rate_for_cash_withdrawal,Why was the exchange rate wrong when I got cash

@@ -1,0 +1,33 @@
+[project]
+name = "gate3-assistant"
+version = "0.1.0"
+description = "Gate 3 prototype: predictive bank support assistant"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "datasets>=2.19",
+    "pandas>=2.1",
+    # torch 2.2.2 is the last build for Intel macOS and needs numpy<2
+    "numpy<2",
+    "torch==2.2.2",
+    "scikit-learn>=1.4",
+    "sentence-transformers>=2.7",
+    "transformers<4.46",
+    "lightgbm>=4.3",
+    "gigachat>=0.1.35",
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+    "streamlit>=1.35",
+    "diskcache>=5.6",
+    "tqdm>=4.66",
+    "matplotlib>=3.8",
+    "pytest>=8.0",
+    "natasha>=1.6",
+    "rouge-score>=0.1.2",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
